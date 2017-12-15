@@ -36,6 +36,7 @@ h2.section-heading.text-uppercase {
 h4.service-heading {
     font-size: 36px;
     color: #ffa30f !important;
+    padding-top: 15%;
 }
 
 h4 {}
@@ -79,4 +80,38 @@ ul.timeline h4 {
 
 .team-member h4 {
     font-size: 32px;
+}
+
+.col-md-4.bglo {
+    background-image: url(/img/images/logo2.png);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center top;
+    padding-top: 6.2%;
+}
+
+i.fa.fa-circle.fa-stack-2x.text-primary {
+    color: #ffa30f !important;
+    text-shadow: #ffa30f 0px 0px 20px;
+    box-shadow: #204312 0px 0px 40px 10px;
+    border-radius: 100%;
+}
+
+i.fa.fa-laptop.fa-stack-1x.fa-inverse {
+}
+
+span.fa-stack.fa-4x {
+    border-radius: 100%;
+    text-shadow: #204312 0 0 1px;
+}
+
+.col-md-4.bglo han {}
+
+.col-md-4.bglo.han {
+}
+
+ul.navbar-nav.text-uppercase.ml-auto {
+    float: right;
+    position: relative;
+    right: -50%;
 }

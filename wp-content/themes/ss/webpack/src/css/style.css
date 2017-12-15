@@ -107,6 +107,8 @@ nav ul li {
   display: inline-block;
   line-height: 60px;
   margin-left: 10px;
+  font-family: TrixieCyr-Plain !important;
+  font-size: 24px;
 }
 nav ul li a {
   text-decoration: none;
