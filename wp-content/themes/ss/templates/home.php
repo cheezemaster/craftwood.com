@@ -18,6 +18,7 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/wp-content/themes/ss/webpack/src/css/bootstrap.css">
   <link rel="stylesheet" href="/wp-content/themes/ss/webpack/src/css/style.css">
+    <link rel="stylesheet" href="/wp-content/themes/ss/webpack/src/css/cheeez.css">
 
     <!-- Custom styles for this template -->
     <link href="/css/agency.min.css" rel="stylesheet">
@@ -107,7 +108,7 @@
 
     <!-- Portfolio Grid -->
     <section class="bg-light" id="portfolio">
-      <div class="container inner">
+      <div class="container inner port">
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Portfolio</h2>

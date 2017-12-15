@@ -127,7 +127,7 @@ body {
 
 
 /* resets */
-body {margin:0px;padding:0px;background: url('http://craftwood/wp-content/uploads/2017/12/fon.jpg');}
+body {margin:0px;padding:0px;background: url('http://craftwood/wp-content/uploads/2017/12/fon.jpg');background-size: 100%;}
 
 
 .logged-in .fixed-header {
