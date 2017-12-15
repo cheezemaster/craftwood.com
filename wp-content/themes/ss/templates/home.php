@@ -30,7 +30,8 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="container inner">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+
+        <img src="/img/images/logo3.png">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>

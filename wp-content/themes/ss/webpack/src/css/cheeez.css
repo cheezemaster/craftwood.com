@@ -1,3 +1,5 @@
-.container.inner.port {
-  width: 100%;
+img.logo {
+    width: 16%;
+    transform: rotate(-25deg);
+    padding-top: 1%;
 }
