@@ -1,5 +1,12 @@
 img.logo {
-    width: 16%;
-    transform: rotate(-25deg);
+    width: 40%;
+    transform: rotate(-5deg);
     padding-top: 1%;
+    position: absolute;
+    left: -20%;
+    top: -20%;
+}
+
+.container.inner.server {
+    color: #fff !important;
 }
