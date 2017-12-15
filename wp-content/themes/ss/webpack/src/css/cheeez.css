@@ -64,3 +64,19 @@ p.container.inner.port.text-muted {
 ul.timeline h4 {
     color: #ffa30f !important;
 }
+
+.col-lg-8.mx-auto.text-center p {
+    color: #ffa30f !important;
+}
+
+.portfolio-caption p {
+    color: #ffa30f !important;
+}
+
+.team-member p {
+    color: #ffa30f !important;
+}
+
+.team-member h4 {
+    font-size: 32px;
+}
