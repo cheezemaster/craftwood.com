@@ -1,12 +1,22 @@
 img.logo {
-    width: 40%;
+    width: 30%;
     transform: rotate(-5deg);
-    padding-top: 1%;
     position: absolute;
-    left: -20%;
-    top: -20%;
+    left: -10%;
+    top: 0;
 }
 
 .container.inner.server {
     color: #fff !important;
+}
+
+section#portfolio portbg {}
+
+.portbg {
+    box-shadow: #fff 0px 0px 40px 40px !important;
+    background-color: #fff !important;
+}
+
+.container.inner.onas {
+    color: #fff;
 }
