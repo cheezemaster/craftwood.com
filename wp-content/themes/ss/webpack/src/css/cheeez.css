@@ -28,5 +28,39 @@ ul.timeline h4 {
 }
 
 h2.section-heading.text-uppercase {
-    font-size: 60px;
+    font-size: 80px;
+    font-weight: 500;
+    font-family: TrixieCyr-Plain;
+}
+
+h4.service-heading {
+    font-size: 36px;
+    color: #ffa30f !important;
+}
+
+h4 {}
+
+.portfolio-caption h4 {
+    font-size: 30px;
+}
+
+.col-md-4 {}
+
+.text-muted {
+    color: #fff !important;
+}
+
+h3.section-subheading.text-muted {
+    color: #ffa30f !important;
+}
+
+p.portfolio-caption.text-muted {
+}
+
+p.container.inner.port.text-muted {
+    /* color: #ffa30f !important; */
+}
+
+ul.timeline h4 {
+    color: #ffa30f !important;
 }
