@@ -130,7 +130,7 @@ body {
 
 
 /* resets */
-body {margin:0px;padding:0px;background: url('http://craftwood/wp-content/uploads/2017/12/fon.jpg');background-size: 100%;font-size: 18px;}
+body {margin:0px;padding:0px;background: url('/img/images/fon.jpg');background-size: 100%;font-size: 18px;background-repeat: repeat;}
 
 
 .logged-in .fixed-header {
