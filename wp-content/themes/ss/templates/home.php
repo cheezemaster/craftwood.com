@@ -489,7 +489,7 @@
     </footer>
 
     <!-- Portfolio Modals -->
-
+<div class="container">
     <!-- Modal 1 -->
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
@@ -693,7 +693,7 @@
         </div>
       </div>
     </div>
-
+</div>
     <!-- Bootstrap core JavaScript -->
     <script src="/vendor/jquery/jquery.min.js"></script>
     <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
