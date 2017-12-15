@@ -20,3 +20,13 @@ section#portfolio portbg {}
 .container.inner.onas {
     color: #fff;
 }
+
+.container.inner {}
+
+ul.timeline h4 {
+    font-size: 28px;
+}
+
+h2.section-heading.text-uppercase {
+    font-size: 60px;
+}
