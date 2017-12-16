@@ -44,6 +44,7 @@ h4.service-heading {
     font-weight: 500;
     text-shadow: #ffa30f 0 0 0.5px;
     font-family: TrixieCyr-Plain;
+    /* border-radius: 100%; */
 }
 
 h4 {}
@@ -92,8 +93,7 @@ ul.timeline h4 {
 .col-md-4.bglo {
 
     04312a3 */
-    padding-top: 14.5%;
-    margin: 0;
+padding-top: 14.5%;
 }
 
 i.fa.fa-circle.fa-stack-2x.text-primary {
@@ -167,7 +167,6 @@ p.text-muted.seer {
 }
 
 h2.section-heading.text-uppercase.serot {
-    margin-bottom: 10%;
     color: #ffa30f;
     text-shadow: #ffa30f  0 0 1.5px;
     font-weight: 500;
@@ -179,7 +178,7 @@ h2.section-heading.text-uppercase.serot {
 }
 
 section#services {
-    padding: 130px 0;
+    padding: 50px 0;
 }
 
 .col-lg-12.text-center.servet {
