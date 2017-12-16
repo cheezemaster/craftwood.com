@@ -1,9 +1,12 @@
 img.logo {
-    width: 30%;
+    width: 25%;
     position: absolute;
-    left: -20%;
-    top: 0%;
+    left: -10%;
+    top: 35%;
     border-radius: 100%;
+    background-color: #ffa30fbf;
+    box-shadow: #ffa30fbd 0 0 20px 10px;
+    transform: rotate(-25deg);
 }
 
 .container.inner.server {
@@ -96,12 +99,13 @@ ul.timeline h4 {
 .col-md-4.bglo {
 
     04312a3 */
-padding-top: 14.5%;
+
+padding-top: 14.5%;
 }
 
 i.fa.fa-circle.fa-stack-2x.text-primary {
-    color: #204312 !important;
-    text-shadow: #ffa30f73 0px 0px 10px;
+    color: #204312e6 !important;
+    text-shadow: #ffa30f 0px 0px 1px;
     box-shadow: #204312 0px 0px 40px 10px;
     border-radius: 100%;
 }
@@ -110,6 +114,7 @@ i.fa.fa-laptop.fa-stack-1x.fa-inverse {color: #ffa30f;text-shadow: #ffa30f  0 0 
 
 span.fa-stack.fa-4x {
     border-radius: 100%;
+    font-size: 3em;
 }
 
 .col-md-4.bglo han {}
@@ -164,7 +169,7 @@ li.tuobl {
 }
 
 p.text-muted.seer {
-    padding: 2% 1%;
+    padding: 2% 4%;
     color: #204312 !important;
     font-size: 21px;
     font-weight: 500;
@@ -199,18 +204,19 @@ i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {
     text-shadow: #ffa30f 0 0 2px;
 }
 #slider {
-   background: #000;
-   border: 5px solid #eaeaea;
-   box-shadow: 1px 1px 5px rgba(0,0,0,0.7);
-   height: 300px;
-   width: 1170px;
+   background: #204312e0;
+   box-shadow: #204312cc 0 0 1px 1px;
+   width: 101%;
+   e; */
+   1170px
    margin: 40px auto 0;
    overflow: visible;
    position: relative;
+   margin-left: -2%;
 }
 #mask {
    overflow: hidden;
-   height: 300px;
+   height: 500px;
 }
 /* IMAGE LIST */
 
@@ -351,4 +357,11 @@ i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {
 #slider: hover li,
 #slider: hover .progress-bar {
    animation-play-state: paused;
+}
+div#carousel {
+    left: 0;
+    align-items: center;
+}
+header.masthead {
+    background: none !important;
 }

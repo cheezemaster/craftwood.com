@@ -50,7 +50,6 @@ ol, ul {
 }
 header {
   z-index:10;
-  background-image: url(/img/images/light.jpg) !important;
   background-size: 100% !important;
 }
 .header-banner {

@@ -61,11 +61,57 @@
     <!-- Header -->
     <header class="masthead">
       <div class="container inner">
-        <div class="intro-text">
+        <!-- <div class="intro-text">
           <div class="intro-lead-in">Welcome To Our Studio!</div>
           <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
-        </div>
+        </div> -->
+        <div id="carousel">
+   <div id="slider">
+     <!-- Slider container -->
+     <div id="mask">
+       <!-- Mask -->
+
+       <ul>
+         <li id="first" class="firstanimation">
+           <!-- ID for tooltip and class for animation -->
+           <a href="#"> <img src="/img/images/post1.jpg" alt="Clark Street Mercantile" /> </a>
+           <div class="tooltip">
+             <h1>Mercantile</h1> </div>
+         </li>
+
+         <li id="second" class="secondanimation">
+           <a href="#"> <img src="/img/images/post2.jpg" alt="Coffee Shop" /> </a>
+           <div class="tooltip">
+             <h1>Coffee</h1></div>
+         </li>
+
+         <li id="third" class="thirdanimation">
+           <a href="#"> <img src="/img/images/post3.jpg" alt ="Rulers" /> </a>
+           <div class="tooltip">
+             <h1>Measuring</h1> </div>
+         </li>
+
+         <li id="fourth" class="fourthanimation">
+           <a href="#"> <img src="/img/images/post4.jpg" alt="Cameras" /> </a>
+           <div class="tooltip">
+             <h1>Cameras</h1> </div>
+         </li>
+
+         <li id="fifth" class="fifthanimation">
+           <a href="#"> <img src="/img/images/post1.jpg" alt="Designs" /> </a>
+           <div class="tooltip">
+             <h1>Designs</h1> </div>
+         </li>
+       </ul>
+
+     </div>
+     <!-- End Mask -->
+     <div class="progress-bar"></div>
+     <!-- Progress Bar -->
+   </div>
+   <!-- End Slider Container -->
+ </div>
       </div>
     </header>
 
