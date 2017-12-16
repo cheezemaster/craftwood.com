@@ -42,10 +42,11 @@ h2.section-heading.text-uppercase {
 h4.service-heading {
     font-size: 36px;
     color: #ffa30f !important;
-    padding-top: 18%;
     font-weight: 600;
     text- text-shadow:;
     text-shadow: #ffa30f 0 0 0.2px;
+    2% */
+    padding:;
 }
 
 h4 {}
@@ -95,8 +96,8 @@ ul.timeline h4 {
     background-image: url(/img/images/logo3.png);
     background-size: 60%;
     background-repeat: no-repeat;
-    background-position: center top;
-    padding-top: 6.2%;
+    background-position: center top 30%;
+    padding-top: 11.5%;
     background-color: #204312a3;
 }
 
@@ -162,10 +163,11 @@ li.tuobl {
     background-position: center; */
     height: 600px; */
     height:;
+    margin: -15%;
 }
 
 p.text-muted {
-    padding: 0 4%;
+    padding: 5% 4%;
 }
 
 h2.section-heading.text-uppercase.serot {
