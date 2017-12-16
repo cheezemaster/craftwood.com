@@ -48,8 +48,6 @@ h4.service-heading {
     2% */
     padding:;
     text-shadow: #ffa30f 0 0 0.5px;
-    background-color: #204312ab;
-    box-shadow: #204312a1 0 0 40px 20px;
 }
 
 h4 {}
@@ -168,22 +166,19 @@ li.tuobl {
     /* box-shadow: #204312e3 0 0 240px 80px; */
 }
 
-p.text-muted.seer {
-    background-color: #2043128c;
-    box-shadow: #204312a8 0px 40px 60px 30px;
+p.text-muted {
+    padding: 5% 5%;
+    background-color: #2043129e;
+    box-shadow: #204312a8 0px 0px 40px 20px;
+    color: #fff;
     border-radius: 5%;
-    padding: 0 10%;
-    margin: 9%;
 }
 
 h2.section-heading.text-uppercase.serot {
-    margin-bottom: 5%;
-    color: #ffa30f;
-    text-shadow: #ffa30f 0 0 20px;
-    font-weight: 500;
-    /* background-color: #ffa30fad; */
-    /* box-shadow: #ffa30fad 0 60px 60px 120px; */
-    /* border-radius: 50% 50% 0 0; */
+    margin-bottom: 10%;
+    /* color: #204312; */
+    text-shadow: #204312 0 0 1.5px;
+    font-weight: 600;
 }
 
 .col-lg-12.text-center {}
@@ -191,22 +186,14 @@ h2.section-heading.text-uppercase.serot {
 .col-lg-12.text-center {
 }
 
-section#services {/* box-shadow: #ffa30f24 0 0 40px 20px; */x;}
+section#services {
+    padding: 130px 0;
+}
 
 .col-lg-12.text-center.servet {
     
     100% 100% */
-    color:;
-    text-shadow: #ffa30f 0 0 65px !important;
 }
 
 .row.sser {
 }
-
-h2.section-heading.text-uppercase.porfo {}
-
-h2.section-heading.text-uppercase.porfo {
-    padding-bottom: 10%;
-}
-
-p.text-muted.seer {}
