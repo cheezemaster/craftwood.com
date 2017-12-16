@@ -38,7 +38,7 @@ h2.section-heading.text-uppercase {
 h4.service-heading {
     font-size: 37px;
     color: #204312 !important;
-    font-weight: 500;
+    font-weight: 700;
     text-shadow: #204312 0 0 0.5px;
     font-family: TrixieCyr-Plain;
     /* border-radius: 100%; */
@@ -100,8 +100,7 @@ i.fa.fa-circle.fa-stack-2x.text-primary {
     border-radius: 100%;
 }
 
-i.fa.fa-laptop.fa-stack-1x.fa-inverse {
-}
+i.fa.fa-laptop.fa-stack-1x.fa-inverse {color: #204312;text-shadow: #204312 0 0 2px;}
 
 span.fa-stack.fa-4x {
     border-radius: 100%;
