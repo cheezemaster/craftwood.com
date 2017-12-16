@@ -1,12 +1,9 @@
 img.logo {
     width: 30%;
-    transform: rotate(-5deg);
     position: absolute;
     left: -25%;
     top: 0%;
-    box-shadow: #20431266 0px 0px 120px 30px;
     border-radius: 100%;
-    background-color: #20431252;
 }
 
 .container.inner.server {
