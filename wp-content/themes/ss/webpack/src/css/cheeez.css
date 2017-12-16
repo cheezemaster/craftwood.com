@@ -96,13 +96,13 @@ ul.timeline h4 {
 }
 
 i.fa.fa-circle.fa-stack-2x.text-primary {
-    color: #ffa30f4a !important;
+    color: #204312d9 !important;
     text-shadow: #ffa30f73 0px 0px 0px;
-    box-shadow: #ffa30f 0px 0px 40px 10px;
+    box-shadow: #204312 0px 0px 40px 10px;
     border-radius: 100%;
 }
 
-i.fa.fa-laptop.fa-stack-1x.fa-inverse {color: #204312;text-shadow: #204312 0 0 2px;}
+i.fa.fa-laptop.fa-stack-1x.fa-inverse {color: #ffa30f;text-shadow: #ffa30f  0 0 2px;}
 
 span.fa-stack.fa-4x {
     border-radius: 100%;
@@ -161,6 +161,9 @@ li.tuobl {
 
 p.text-muted.seer {
     padding: 2% 1%;
+    color: #204312 !important;
+    font-size: 21px;
+    font-weight: 500;
 }
 
 h2.section-heading.text-uppercase.serot {
@@ -174,7 +177,8 @@ h2.section-heading.text-uppercase.serot {
 .col-lg-12.text-center {padding-bottom: 10%;}
 
 section#services {
-    /* padding: 50px 0; */
+    background: #ffa30f91;
+    box-shadow: #ffa30f85 0 0 5px 5px;
 }
 
 .col-lg-12.text-center.servet {
@@ -184,11 +188,11 @@ section#services {
 
 .row.sser {
 }
-i.fa.fa-shopping-cart.fa-stack-1x.fa-inverse.srva {color: #204312;text-shadow: #204312 0 0 2px;}
+i.fa.fa-shopping-cart.fa-stack-1x.fa-inverse.srva {color: #ffa30f;text-shadow: #ffa30f  0 0 2px;}
 
 i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {
-    color: #204312;
-    text-shadow: #204312 0 0 2px;
+    color: #ffa30f;
+    text-shadow: #ffa30f 0 0 2px;
 }
 *:before,
 		*:after {

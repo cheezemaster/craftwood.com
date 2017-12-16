@@ -22,7 +22,7 @@
 
     <!-- Custom styles for this template -->
     <link href="/css/agency.min.css" rel="stylesheet">
-
+<link href='https://fonts.googleapis.com/css?family=Bad+Script' rel='stylesheet' type='text/css'>
 
 
   <body <?php body_class(); ?> id="page-top">
