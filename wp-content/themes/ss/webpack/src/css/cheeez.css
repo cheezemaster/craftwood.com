@@ -174,7 +174,7 @@ h2.section-heading.text-uppercase.serot {
 .col-lg-12.text-center {padding-bottom: 10%;}
 
 section#services {
-    padding: 50px 0;
+    /* padding: 50px 0; */
 }
 
 .col-lg-12.text-center.servet {
@@ -202,26 +202,7 @@ i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {
       width: 80%;
     }
 
-		legend {
-			color: #727272;
-			font-family: 'Bad Script', cursive;
-			font-weight: 100;
-			margin: 0 0px 1rem;
-			display: block;
-			padding: 0 2rem;
-			background: transparent;
-			font-size: 2rem;
-		}
-
-		fieldset {
-			border: 1px solid #c7c7c7;
-		    padding: 0 2rem;
-		}
-
-		.container {
-		  text-align: center;
-		  padding: 2rem;
-		}
+	
 
 		.slider {
 		  position: relative;
