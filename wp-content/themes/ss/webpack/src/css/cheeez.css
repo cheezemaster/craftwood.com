@@ -1,9 +1,9 @@
 img.logo {
-    width: 40%;
+    width: 30%;
     transform: rotate(-5deg);
     position: absolute;
-    left: -15%;
-    top: 0;
+    left: -25%;
+    top: 0%;
     box-shadow: #20431266 0px 0px 120px 30px;
     border-radius: 100%;
     background-color: #20431252;
@@ -39,10 +39,11 @@ h2.section-heading.text-uppercase {
 }
 
 h4.service-heading {
-    font-size: 36px;
+    font-size: 37px;
     color: #ffa30f !important;
     font-weight: 500;
     text-shadow: #ffa30f 0 0 0.5px;
+    font-family: TrixieCyr-Plain;
 }
 
 h4 {}
@@ -107,12 +108,17 @@ i.fa.fa-laptop.fa-stack-1x.fa-inverse {
 
 span.fa-stack.fa-4x {
     border-radius: 100%;
-    text-shadow: #204312 0 0 1px;
+    text-shadow: #204312 0 0 2px;
 }
 
 .col-md-4.bglo han {}
 
-.col-md-4.bglo.han {background-color: #2043125c;border-radius: 0%;box-shadow: #20431261 0 -10px 60px 30px;margin: 0;}
+.col-md-4.bglo.han {
+  background-color: #2043125c;
+  border-radius: 0%;
+  box-shadow: #20431261 0 -10px 60px 30px;
+  margin: 0;
+}
 
 ul.navbar-nav.text-uppercase.ml-auto {
     float: right;
@@ -160,7 +166,7 @@ li.tuobl {
     /* box-shadow: #204312e3 0 0 240px 80px; */
 }
 
-p.text-muted {
+p.text-muted.seer {
     padding: 5% 5%;
     background-color: #2043129e;
     box-shadow: #204312a8 0px 0px 40px 20px;
