@@ -114,10 +114,6 @@ span.fa-stack.fa-4x {
 .col-md-4.bglo han {}
 
 .col-md-4.bglo.han {
-  background-color: #2043125c;
-  border-radius: 0%;
-  box-shadow: #20431261 0 -10px 60px 30px;
-  margin: 0;
 }
 
 ul.navbar-nav.text-uppercase.ml-auto {
@@ -167,18 +163,14 @@ li.tuobl {
 }
 
 p.text-muted.seer {
-    padding: 5% 5%;
-    background-color: #2043129e;
-    box-shadow: #204312a8 0px 0px 40px 20px;
-    color: #fff;
-    border-radius: 5%;
+    padding: 2% 1%;
 }
 
 h2.section-heading.text-uppercase.serot {
     margin-bottom: 10%;
-    /* color: #204312; */
-    text-shadow: #204312 0 0 1.5px;
-    font-weight: 600;
+    color: #ffa30f;
+    text-shadow: #ffa30f  0 0 1.5px;
+    font-weight: 500;
 }
 
 .col-lg-12.text-center {}
