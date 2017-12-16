@@ -50,7 +50,7 @@ ol, ul {
 }
 header {
   z-index:10;
-  background-image: url(/img/images/desk.jpg) !important;
+  background-image: url(/img/images/light.jpg) !important;
   background-size: 100% !important;
 }
 .header-banner {
@@ -130,7 +130,7 @@ body {
 
 
 /* resets */
-body {margin:0px;padding:0px;background: url('/img/images/fon12.jpg');background-size: 100%;font-size: 18px;/* background-repeat: repeat; *//position: static;}
+body {margin:0px;padding:0px;background: url('/img/images/fon12.jpg');background-size: 100%;font-size: 18px;/* background-repeat: repeat; *//position: static;opacity: 2;}
 
 
 .logged-in .fixed-header {

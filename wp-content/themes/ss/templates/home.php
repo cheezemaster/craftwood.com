@@ -61,11 +61,57 @@
     <!-- Header -->
     <header class="masthead">
       <div class="container inner">
-        <div class="intro-text">
+        <!-- <div class="intro-text">
           <div class="intro-lead-in">Welcome To Our Studio!</div>
           <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
-        </div>
+        </div> -->
+
+		<fieldset>
+			<div class="slider">
+				<input type="radio" name="rSlide" id="rsl-1" class="slider__control" checked/>
+				<input type="radio" name="rSlide" id="rsl-2" class="slider__control"/>
+				<input type="radio" name="rSlide" id="rsl-3" class="slider__control"/>
+				<input type="radio" name="rSlide" id="rsl-4" class="slider__control"/>
+				<input type="radio" name="rSlide" id="rsl-5" class="slider__control"/>
+
+
+				<ul class="slider__list">
+				    <li class="slider__item">
+				      <label for="rsl-1" class="slider__label slider__label-1">
+				        <img src="https://images.unsplash.com/uploads/141219200475673afcb68/f5bd8360?dpr=1&auto=format&fit=crop&w=1500&h=NaN&q=80&cs=tinysrgb&crop=" alt="" class="slider__img">
+				      </label>
+				    </li>
+				    <li class="slider__item">
+				      <label for="rsl-2" class="slider__label slider__label-2">
+				        <img src="https://images.unsplash.com/photo-1470165525439-3cf9e6dccbad?dpr=1&auto=format&fit=crop&w=1500&h=NaN&q=80&cs=tinysrgb&crop=" alt="" class="slider__img">
+				      </label>
+				    </li>
+				    <li class="slider__item">
+				      <label for="rsl-3" class="slider__label slider__label-3">
+				        <img src="https://images.unsplash.com/photo-1479642770516-f2df0a071c6c?dpr=1&auto=format&fit=crop&w=1500&h=NaN&q=80&cs=tinysrgb&crop=" alt="" class="slider__img">
+				      </label>
+				    </li>
+				    <li class="slider__item">
+				      <label for="rsl-4" class="slider__label slider__label-4">
+				        <img src="https://images.unsplash.com/photo-1479152471347-3f2e62a2b2a7?dpr=1&auto=format&fit=crop&w=1500&h=NaN&q=80&cs=tinysrgb&crop=">
+				      </label>
+				    </li>
+				    <li class="slider__item">
+				      <label for="rsl-5" class="slider__label slider__label-5">
+				        <img src="https://images.unsplash.com/photo-1478427433968-28045906c1dd?dpr=1&auto=format&fit=crop&w=1500&h=NaN&q=80&cs=tinysrgb&crop=" alt="" class="slider__img">
+				      </label>
+				    </li>
+				</ul>
+			</div>
+
+			<!-- <div class="slider__description">
+
+			</div> -->
+
+
+		</fieldset>
+
       </div>
     </header>
 
