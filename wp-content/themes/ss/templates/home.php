@@ -22,7 +22,7 @@
 
     <!-- Custom styles for this template -->
     <link href="/css/agency.min.css" rel="stylesheet">
-<link href='https://fonts.googleapis.com/css?family=Bad+Script' rel='stylesheet' type='text/css'>
+
 
 
   <body <?php body_class(); ?> id="page-top">
@@ -61,16 +61,11 @@
     <!-- Header -->
     <header class="masthead">
       <div class="container inner">
-        <!-- <div class="intro-text">
+        <div class="intro-text">
           <div class="intro-lead-in">Welcome To Our Studio!</div>
           <div class="intro-heading text-uppercase">It's Nice To Meet You</div>
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>
-        </div> -->
-
-			</div> -->
-
-
-
+        </div>
       </div>
     </header>
 
@@ -213,7 +208,7 @@
       <div class="container inner onas">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">About</h2>
+            <h2 class="section-heading text-uppercase abo">About</h2>
           </div>
         </div>
         <div class="row">
