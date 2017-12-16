@@ -30,16 +30,16 @@ ul.timeline h4 {
 }
 
 h2.section-heading.text-uppercase {
-    font-size: 90px;
+    font-size: 50px;
     font-weight: 500;
     font-family: TrixieCyr-Plain;
 }
 
 h4.service-heading {
     font-size: 37px;
-    color: #ffa30f !important;
+    color: #204312 !important;
     font-weight: 500;
-    text-shadow: #ffa30f 0 0 0.5px;
+    text-shadow: #204312 0 0 0.5px;
     font-family: TrixieCyr-Plain;
     /* border-radius: 100%; */
 }
@@ -94,9 +94,9 @@ ul.timeline h4 {
 }
 
 i.fa.fa-circle.fa-stack-2x.text-primary {
-    color: #ffa30f !important;
-    text-shadow: #ffa30f 0px 0px 20px;
-    box-shadow: #204312 0px 0px 40px 10px;
+    color: #ffa30f4a !important;
+    text-shadow: #ffa30f73 0px 0px 0px;
+    box-shadow: #ffa30f 0px 0px 40px 10px;
     border-radius: 100%;
 }
 
@@ -105,7 +105,6 @@ i.fa.fa-laptop.fa-stack-1x.fa-inverse {
 
 span.fa-stack.fa-4x {
     border-radius: 100%;
-    text-shadow: #204312 0 0 2px;
 }
 
 .col-md-4.bglo han {}
@@ -164,15 +163,14 @@ p.text-muted.seer {
 }
 
 h2.section-heading.text-uppercase.serot {
-    color: #ffa30f;
-    text-shadow: #ffa30f  0 0 1.5px;
-    font-weight: 500;
+    color: #204312;
+    text-shadow: #204312 0 0 3px;
+    font-weight: 700;
 }
 
 .col-lg-12.text-center {}
 
-.col-lg-12.text-center {
-}
+.col-lg-12.text-center {padding-bottom: 10%;}
 
 section#services {
     padding: 50px 0;
