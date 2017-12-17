@@ -1,12 +1,12 @@
 img.logo {
-    width: 25%;
+    width: 20%;
     position: absolute;
-    left: -10%;
-    top: 35%;
+    left: -23%;
+    top: 30%;
     border-radius: 100%;
     background-color: #ffa30fbf;
-    box-shadow: #ffa30fbd 0 0 20px 10px;
-    transform: rotate(-25deg);
+    box-shadow: #ffa30fbd 0 0 30px 15px;
+    transform: rotate(-26deg);
 }
 
 .container.inner.server {
@@ -26,8 +26,9 @@ section#portfolio portbg {}
     background-repeat: no-repeat;
     background-size: contain;
     background-color: #204312db;
-    box-shadow: #204312d6 0 0 5px 5px;
+    box-shadow: #204312d6 0 0 10px 5px;
     padding: 10% 0;
+    width: 1115px;
 }
 
 .container.inner1 {}
@@ -183,11 +184,12 @@ h2.section-heading.text-uppercase.serot {
 
 .col-lg-12.text-center {}
 
-.col-lg-12.text-center {padding-bottom: 10%;}
+.col-lg-12.text-center {padding-bottom: 5%;}
 
 section#services {
     background: #ffa30fab;
-    box-shadow: #ffa30fab 0 0 5px 5px;
+    box-shadow: #ffa30fab 0 0 10px 5px;
+    padding: 5% 0;
 }
 
 .col-lg-12.text-center.servet {
@@ -228,8 +230,10 @@ i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {
 
 #slider li {
    width: 1170px;  /* Width Image */
-   height: 300px; /* Height Image */
+   height: 300px;
+   ight Image */
    position: absolute;
+   position:  absolute;
    top: 0px; /* Original Position - Outside of the Slider */
    list-style: none;
 }
