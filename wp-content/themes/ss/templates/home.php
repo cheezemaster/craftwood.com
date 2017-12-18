@@ -75,31 +75,31 @@
        <ul>
          <li id="first" class="firstanimation">
            <!-- ID for tooltip and class for animation -->
-           <a href="#"> <img src="/img/images/post1.jpg" alt="Clark Street Mercantile" /> </a>
+           <a href="#"> <img src="/img/images/post11.jpg" alt="Clark Street Mercantile" /> </a>
            <div class="tooltip">
              <h1>Mercantile</h1> </div>
          </li>
 
          <li id="second" class="secondanimation">
-           <a href="#"> <img src="/img/images/post2.jpg" alt="Coffee Shop" /> </a>
+           <a href="#"> <img src="/img/images/post12.jpg" alt="Coffee Shop" /> </a>
            <div class="tooltip">
              <h1>Coffee</h1></div>
          </li>
 
          <li id="third" class="thirdanimation">
-           <a href="#"> <img src="/img/images/post3.jpg" alt ="Rulers" /> </a>
+           <a href="#"> <img src="/img/images/post13.jpg" alt ="Rulers" /> </a>
            <div class="tooltip">
              <h1>Measuring</h1> </div>
          </li>
 
          <li id="fourth" class="fourthanimation">
-           <a href="#"> <img src="/img/images/post4.jpg" alt="Cameras" /> </a>
+           <a href="#"> <img src="/img/images/post14.jpg" alt="Cameras" /> </a>
            <div class="tooltip">
              <h1>Cameras</h1> </div>
          </li>
 
          <li id="fifth" class="fifthanimation">
-           <a href="#"> <img src="/img/images/post1.jpg" alt="Designs" /> </a>
+           <a href="#"> <img src="/img/images/post15.jpg" alt="Designs" /> </a>
            <div class="tooltip">
              <h1>Designs</h1> </div>
          </li>
@@ -250,7 +250,7 @@
     </section>
 
     <!-- About -->
-    <section id="about">
+    <!-- <section id="about">
       <div class="container inner onas">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -281,7 +281,7 @@
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4 class="boat">March 2011</h4>
-                    <h4 class="subheading">An Agency is Born</h4>
+                    <h4 class="subheading boat">An Agency is Born</h4>
                   </div>
                   <div class="timeline-body">
                     <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
@@ -309,7 +309,7 @@
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4 class="boat">July 2014</h4>
-                    <h4 class="subheading">Phase Two Expansion</h4>
+                    <h4 class="subheading boat">Phase Two Expansion</h4>
                   </div>
                   <div class="timeline-body">
                     <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
@@ -327,10 +327,10 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Team -->
-    <section class="bg-light" id="team">
+    <section class="bg-light contax" id="team">
       <div class="container inner">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -452,7 +452,7 @@
       <div class="container inner">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Contact Us</h2>
+            <h2 class="section-heading text-uppercase con">Contact Us</h2>
             <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
           </div>
         </div>
