@@ -27,7 +27,6 @@ section#portfolio portbg {}
     background-size: contain;
     background-color: #204312db;
     box-shadow: #204312d6 0 0 10px 5px;
-    padding: 10% 0;
     width: 1115px;
 }
 
@@ -174,7 +173,7 @@ li.tuobl {
 }
 
 p.text-muted.seer {
-    padding: 4% 11%;
+    padding: 5% 10%;
     color: #204312 !important;
     font-size: 18px;
     font-weight: 500;
