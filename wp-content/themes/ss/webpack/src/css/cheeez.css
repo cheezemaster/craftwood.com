@@ -6,13 +6,13 @@ img.logo {
     background-color: #ffa30fbf;
     border-radius: 100%;
     left: 93%;
-    top: -102%;
+    top: -111%;
     transform: rotate(20deg);
     background-color:  #fff;
     box-shadow: #000000a8 10px 10px 5px 5px;
 }
 
-.container.inner.server {w;height: 80px;width: 100%padding:  0}
+.container.inner.server {w;height: 80px;width: 100%;padding:  0;}
 
 section#portfolio portbg {}
 
@@ -137,7 +137,7 @@ span.fa-stack.fa-4x {
 
 ul.navbar-nav.text-uppercase.ml-auto {
     position:  relative;
-    float: left;
+    float: right;
     border-bottom-width: 6px;
     padding-left: 6%;
 }
@@ -526,11 +526,12 @@ nav#mainNav {
     padding-bottom: 0%;
     box-shadow: #0000009c 5px 5px 5px 5px;
     color: #204312 !important;
-    top: 7%;
+    top: 17%;
     left: 0;
     padding-top: 0;
     border-radius:  0;
     padding:  0;
+    border-top: #ffa30f  solid 9px;
   }
   #mainNav.navbar-shrink{
     background-color: #fff  !important;
