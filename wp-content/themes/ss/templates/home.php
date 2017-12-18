@@ -280,7 +280,7 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>March 2011</h4>
+                    <h4 class="boat">March 2011</h4>
                     <h4 class="subheading">An Agency is Born</h4>
                   </div>
                   <div class="timeline-body">
@@ -308,7 +308,7 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>July 2014</h4>
+                    <h4 class="boat">July 2014</h4>
                     <h4 class="subheading">Phase Two Expansion</h4>
                   </div>
                   <div class="timeline-body">

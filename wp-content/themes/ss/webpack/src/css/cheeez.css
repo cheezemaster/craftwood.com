@@ -33,7 +33,7 @@ section#portfolio portbg {}
 .container.inner1 {}
 
 ul.timeline h4 {
-    font-size: 28px;
+    font-size: 30px;
 }
 
 h2.section-heading.text-uppercase {
@@ -67,6 +67,8 @@ h4 {}
 
 .text-muted {
     color: #fff !important;
+    font-size:  19px;
+    line-height: 1.3;
 }
 
 h3.section-subheading.text-muted {
@@ -81,7 +83,9 @@ p.container.inner.port.text-muted {
 }
 
 ul.timeline h4 {
-    color: #ffa30f !important;
+    color: #ffa30f;
+    font-family: TrixieCyr-Plain;
+    line-height:  1;
 }
 
 .col-lg-8.mx-auto.text-center p {
@@ -465,7 +469,26 @@ header.masthead {
 }
 .timeline:before {
   width: 2px;
-    margin-left:0 !important;
-    content: '';
-    background-color: #ffa30f 
+  margin-left:0 !important;
+  content: '';
+  background-color: #ffa30f8a !important;
+  width: 480px !important;
+  box-shadow: #ffa30f82 0 0 5px 5px;
+  margin-bottom:  8%;
+  top: 6% !important;
+}
+h2.section-heading.text-uppercase.abo {
+    color: #ffa30f;
+    text-shadow: #ffa30f 0 0 2px;
+    border-bottom: #ffa30f dotted 8px;
+}
+h2.section-heading.text-uppercase.serot {
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+ul.timeline li {
+    margin: 0;
+}
+.boat{
+  color: #204312 !important;
 }
