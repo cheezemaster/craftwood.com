@@ -136,13 +136,14 @@ span.fa-stack.fa-4x {
 ul.navbar-nav.text-uppercase.ml-auto {
     border-bottom: dotted #204312  6px;
     position:  relative;
-    left: 10%;
+    left: 4%;
     float:  right;
+    border-bottom-width: 8px;
 }
 
 a.nav-link.js-scroll-trigger {
     font-family: TrixieCyr-Plain !important;
-    font-size: 150% !important;
+    font-size: 140% !important;
     font-weight: 600 !important;
     text-shadow: #204312 0 0 2px;
     color: #204312;
@@ -516,7 +517,7 @@ ul.timeline li {
 }
 nav#mainNav {
     background-color: #fff;
-    width: 80%;
+    width: 70%;
     position: fixed;
     padding-bottom: 0.5%;
     box-shadow: #000000d4 5px 5px 15px 5px;
@@ -534,7 +535,4 @@ i.fa.fa-plus.fa-3x {
 }
 #mainNav .navbar-nav .nav-item .nav-link{
   color: #204312 !important;
-}
-.navbar-nav > li > a{
-  line-height: 0;
 }
