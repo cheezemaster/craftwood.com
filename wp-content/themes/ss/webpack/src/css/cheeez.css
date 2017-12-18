@@ -1,16 +1,18 @@
 img.logo {
-    width: 20%;
+    width: 15%;
     position: absolute;
-    left: -23%;
-    top: 30%;
-    border-radius: 100%;
+    
+    100%
     background-color: #ffa30fbf;
-    box-shadow: #ffa30fbd 0 0 30px 15px;
-    transform: rotate(-26deg);
+    box-shadow: #ffa30fc7 0 0 30px 15px;
+    border-radius: 100%;
+    background-color: #ffa30fc4;
+    transform: rotate(-10deg);
+    left: 3%;
+    top: -20%;
 }
 
 .container.inner.server {
-    color: #fff !important;
 }
 
 section#portfolio portbg {}
@@ -134,12 +136,16 @@ span.fa-stack.fa-4x {
 ul.navbar-nav.text-uppercase.ml-auto {
     float: right;
     position: relative;
-    right: -10%;
+    right: -9%;
 }
 
 a.nav-link.js-scroll-trigger {
     font-family: TrixieCyr-Plain !important;
-    font-size: 150% !important;
+    font-size: 160% !important;
+    color:  #ffa30f !important;
+    font-weight: 500 !important;
+    margin-top: 1%;
+    text-shadow: #ffa30f 0 0 2px;
 }
 
 .container.inner.onas.row {
@@ -168,7 +174,7 @@ li.tuobl {
 }
 
 .row.text-center {
-    
+
 
      */
     background-position: center; */
@@ -201,7 +207,7 @@ section#services {
     padding: 0;
 
     /* rgin-top: 15%; */
-    margin-bottom: 50%;
+    margin-bottom: 40%;
     background-color:  #fff;
     height: 200px;
     box-shadow: #000000ab 5px 5px 8px 2px;
@@ -222,7 +228,8 @@ i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {
     text-shadow: #ffa30f 0 0 2px;
 }
 #slider {
-   background: #204312e0;
+   background: #fff;
+   background-image: url(/img/images/logo4.png);
    width: 100%;
    e; */
    1170px
@@ -231,6 +238,9 @@ i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {
    position: relative;
    margin-left: -1.3%;
    box-shadow: #000000ab 5px 5px 8px 2px;
+   background-size: 40%;
+   background-repeat: no-repeat;
+   background-position: top center;
 }
 #mask {
    overflow: hidden;
@@ -251,7 +261,7 @@ i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {
    ight Image */
    position: absolute;
    position:  absolute;
-   top: 0px; /* Original Position - Outside of the Slider */
+   top: 0; /* Original Position - Outside of the Slider */
    list-style: none;
 }
 #slider li.firstanimation {
@@ -508,3 +518,9 @@ ul.timeline li {
 #slider ul li img{
   width: 1110px;
 }
+nav#mainNav {
+    background-color: #204312e3;
+    width: 100%;
+    position: fixed;
+    padding-bottom: 0;
+    box-shadow: #204312e3 0 0 5px 5px;
