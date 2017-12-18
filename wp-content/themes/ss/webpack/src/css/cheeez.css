@@ -46,6 +46,8 @@ h2.section-heading.text-uppercase {
     border-bottom: dotted 8px;
     width: 90%;
     margin:  auto;
+    margin-top: 10%;
+    margin-bottom: 5%;
 }
 
 h4.service-heading {
@@ -384,6 +386,7 @@ header.masthead {
 -o-transition: all .5s ease;
 transition: all .5s ease;
 backface-visibility:hidden;
+margin-top: 20%;
 }
 
 .portbg:hover{
@@ -415,24 +418,41 @@ header.masthead {
   border-bottom:1px solid black;
 }
 
-.serbg {
-border-radius:2px
-border-left: 2px solid #f5f5f7;
-border-bottom: 2px solid #f5f5f7;
-border-right: 1px solid #adc0bc;
-border-top: 1px solid #f4f4f6;
--webkit-transition: all .5s ease;
--moz-transition: all .5s ease;
--ms-transition: all .5s ease;
--o-transition: all .5s ease;
-transition: all .5s ease;
-backface-visibility:hidden;
-}
+.serbg {b;/* bkit-transition: all .5s ease; */-ms-transition: all .5s ease;-o-transition: all .5s ease;transition: all .5s ease;backface-visibility:hidden;}
 
 .serbg:hover{
   -webkit-transform: scale(1.2);
-     -moz-transform: scale(1.2);
-      -ms-transform: scale(1.2);
-       -o-transform: scale(1.2);
-          transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.seric1{
+  background-image: url(/img/images/bloknot.png);
+  background-size: 100%;
+  margin: -5% 0;
+  transform: scale(1.2)rotate(-15deg);
+}
+.seric2{
+  background-image: url(/img/images/bloknot2.png);
+  background-size: 100%;
+  margin: -5% 0;
+}
+.seric3{
+  background-image: url(/img/images/bloknot1.png);
+  background-size: 100%;
+  margin: -5% 0;
+  transform: scale(1.2) rotate(18deg);
+}
+.seric1:hover{
+  transform: scale(1.2) rotate(8deg);
+  z-index: 1;
+}
+.seric2:hover{
+  transform: scale(1.2);
+  z-index:  1;
+}
+.seric3:hover{
+  transform: scale(1.2) rotate(3deg);
 }
