@@ -1,7 +1,7 @@
 img.logo {
     width: 15%;
     position: absolute;
-    
+
     100%
     background-color: #ffa30fbf;
     box-shadow: #ffa30fc7 0 0 30px 15px;
@@ -524,3 +524,7 @@ nav#mainNav {
     position: fixed;
     padding-bottom: 0;
     box-shadow: #204312e3 0 0 5px 5px;
+  }
+  #mainNav.navbar-shrink{
+    
+  }
