@@ -153,7 +153,7 @@
     </section>
 
     <!-- Portfolio Grid -->
-    <section class="bg-light portbg" id="portfolio">
+    <section class="bg-light porto" id="portfolio">
       <div class="container inner port">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -161,7 +161,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-sm-6 portfolio-item portbg">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
@@ -175,7 +175,7 @@
               <p class="text-muted">Illustration</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-sm-6 portfolio-item portbg">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
@@ -189,7 +189,7 @@
               <p class="text-muted">Graphic Design</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-sm-6 portfolio-item portbg">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
@@ -203,7 +203,7 @@
               <p class="text-muted">Identity</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-sm-6 portfolio-item portbg">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
@@ -217,7 +217,7 @@
               <p class="text-muted">Branding</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-sm-6 portfolio-item portbg">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
@@ -231,7 +231,7 @@
               <p class="text-muted">Website Design</p>
             </div>
           </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
+          <div class="col-md-4 col-sm-6 portfolio-item portbg">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
               <div class="portfolio-hover">
                 <div class="portfolio-hover-content">
