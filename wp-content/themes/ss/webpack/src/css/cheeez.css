@@ -9,11 +9,10 @@ img.logo {
     background-color: #ffa30fc4;
     transform: rotate(-10deg);
     left: 3%;
-    top: -20%;
+    top: -17%;
 }
 
-.container.inner.server {
-}
+.container.inner.server {}
 
 section#portfolio portbg {}
 
@@ -136,7 +135,7 @@ span.fa-stack.fa-4x {
 ul.navbar-nav.text-uppercase.ml-auto {
     float: right;
     position: relative;
-    right: -9%;
+    left: 25%;
 }
 
 a.nav-link.js-scroll-trigger {
@@ -394,6 +393,7 @@ div#carousel {
 }
 header.masthead {
     background: none !important;
+    margin-top: 20%;
 }
 
 .portbg {
