@@ -6,8 +6,8 @@ img.logo {
     background-color: #ffa30fbf;
     border-radius: 100%;
     left: 5%;
-    top: -60%;
-    transform: rotate(-10deg);
+    top: -85%;
+    transform: rotate(10deg);
 }
 
 .container.inner.server {w;}
@@ -36,16 +36,17 @@ ul.timeline h4 {
 }
 
 h2.section-heading.text-uppercase {
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 500;
     font-family: TrixieCyr-Plain;
     color: #204312;
     text-shadow: #204312 0 0 2px;
-    border-bottom: #204312  dotted 8px;
+    border-top: #204312  dotted 8px;
     width: 90%;
     margin:  auto;
     margin-top: 5%;
     margin-bottom: 5%;
+    padding-top: 1%;
 }
 
 h4.service-heading {
@@ -131,7 +132,6 @@ span.fa-stack.fa-4x {
 .col-md-4.bglo.han {padding: 2%;wi;margin: auto;margin-left: 2%;m;ma;margin-right: 2%;ma;max-width: 25%;border-radius: 1%;}
 
 ul.navbar-nav.text-uppercase.ml-auto {
-    border-bottom: dotted #204312  6px;
     position:  relative;
     left: 4%;
     float:  right;
@@ -195,7 +195,7 @@ p.text-muted.seer {
 h2.section-heading.text-uppercase.serot {
     color: #204312;
     text-shadow: #204312 0 0 2px;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 .col-lg-12.text-center {
@@ -229,7 +229,7 @@ i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {
 }
 #slider {
    background: transparent;
-   background-image: url(/img/images/logo4.png);
+   background-image: url(/img/images/logo.png);
    width: 100%;
    e; */
    1170px
@@ -238,7 +238,7 @@ i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {
    position: relative;
    margin-left: -1.3%;
    box-shadow: #000000ab 5px 5px 8px 2px;
-   background-size: 25%;
+   background-size: 50%;
    background-repeat: no-repeat;
    background-position: top center;
 }
@@ -509,7 +509,7 @@ ul.timeline li {
 }
 .con {
 color: #ffa30f !important;
-border-bottom: #ffa30f  dotted 8px !important;
+border-top: #ffa30f  dotted 8px !important;
 }
 #slider ul li img{
   width: 1110px;
@@ -518,11 +518,11 @@ nav#mainNav {
     background-color: #fff;
     width: 70%;
     position: fixed;
-    padding-bottom: 0.5%;
+    padding-bottom: 0%;
     box-shadow: #000000d4 5px 5px 15px 5px;
     color: #204312 !important;
     top: 10%;
-    padding-top: 0.5%;
+    padding-top: 0;
   }
   #mainNav.navbar-shrink{
     background-color: #fff  !important;
@@ -565,5 +565,8 @@ i.fa.fa-plus.fa-3x {
   font-size: 16px !important;
 }
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink img{
-  width: 20%;
+  width: 15%;
+  top: -25%;
+  left: 0;
+  transform: rotate(-7deg);
 }

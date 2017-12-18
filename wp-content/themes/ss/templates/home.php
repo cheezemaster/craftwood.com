@@ -31,7 +31,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="container inner server">
 
-        <img class="logo" src="/img/images/logo6.png">
+        <img class="logo" src="/img/images/logo5.png">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>
@@ -39,19 +39,19 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger menu1" href="#services">Services</a>
+              <a class="nav-link js-scroll-trigger menu1" href="#services">Главная</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger menu2" href="#portfolio">Portfolio</a>
+              <a class="nav-link js-scroll-trigger menu2" href="#portfolio">Продукция</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger menu3" href="#about">About</a>
+              <a class="nav-link js-scroll-trigger menu3" href="#about">О Нас</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger menu4" href="#team">Team</a>
+              <a class="nav-link js-scroll-trigger menu4" href="#team">Отзывы</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger menu5" href="#contact">Contact</a>
+              <a class="nav-link js-scroll-trigger menu5" href="#contact">Контакты</a>
             </li>
           </ul>
         </div>
@@ -120,7 +120,7 @@
       <div class="container inner inner1">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase serot">Services</h2>
+            <h2 class="section-heading text-uppercase serot">Услуги</h2>
           </div>
         </div>
         <div class="row text-center">
@@ -129,7 +129,7 @@
               <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
               <i class="fa fa-shopping-cart fa-stack-1x fa-inverse srva"></i>
             </span>
-            <h4 class="service-heading">E-Commerce</h4>
+            <h4 class="service-heading">Монтаж</h4>
             <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
           <div class="col-md-4 bglo han serbg seric2">
@@ -137,7 +137,7 @@
               <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
               <i class="fa fa-laptop fa-stack-1x fa-inverse srva"></i>
             </span>
-            <h4 class="service-heading">Design</h4>
+            <h4 class="service-heading">Дизайн</h4>
             <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
           <div class="col-md-4 bglo han serbg seric3">
@@ -145,7 +145,7 @@
               <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
               <i class="fa fa-lock fa-stack-1x fa-inverse srva"></i>
             </span>
-            <h4 class="service-heading">Web</h4>
+            <h4 class="service-heading">Скорость</h4>
             <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
         </div>
@@ -157,7 +157,7 @@
       <div class="container inner port">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Portfolio</h2>
+            <h2 class="section-heading text-uppercase">Продукция</h2>
           </div>
         </div>
         <div class="row">
@@ -258,7 +258,7 @@
               <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
               <i class="fa fa-shopping-cart fa-stack-1x fa-inverse srva"></i>
             </span>
-            <h4 class="service-heading">E-Commerce</h4>
+            <h4 class="service-heading">Уникальность</h4>
             <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
           <div class="col-md-4 bglo han serbg seric2">
@@ -266,7 +266,7 @@
               <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
               <i class="fa fa-laptop fa-stack-1x fa-inverse srva"></i>
             </span>
-            <h4 class="service-heading">Design</h4>
+            <h4 class="service-heading">Качество</h4>
             <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
           <div class="col-md-4 bglo han serbg seric3">
@@ -274,7 +274,7 @@
               <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
               <i class="fa fa-lock fa-stack-1x fa-inverse srva"></i>
             </span>
-            <h4 class="service-heading">Web</h4>
+            <h4 class="service-heading">Эксклюзив</h4>
             <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
         </div>
@@ -366,7 +366,7 @@
       <div class="container inner">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
+            <h2 class="section-heading text-uppercase">Отзывы наших Партнеров</h2>
           </div>
         </div>
         <div class="row">
@@ -484,7 +484,7 @@
       <div class="container inner">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase con">Contact Us</h2>
+            <h2 class="section-heading text-uppercase con">Связь с Нами</h2>
             <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
           </div>
         </div>
