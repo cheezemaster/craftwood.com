@@ -4,16 +4,16 @@ img.logo {
 
     100%
     background-color: #ffa30fbf;
-    box-shadow: #ffa30fc4 0 0 30px 15px;
+    box-shadow: #ffa30fc4 0 0 10px 5px;
     border-radius: 100%;
     background-color: #ffa30fc4;
-    transform: rotate(-7deg);
-    left: 3%;
-    top: -52%;
-    border: #ffa30f26 solid 2px;
+    transform: rotate(-10deg);
+    left: 2%;
+    top: 20%;
+    border: #ffa30fb3 2px;
 }
 
-.container.inner.server {}
+.container.inner.server {w;}
 
 section#portfolio portbg {}
 
@@ -134,16 +134,17 @@ span.fa-stack.fa-4x {
 .col-md-4.bglo.han {padding: 2%;wi;margin: auto;margin-left: 2%;m;ma;margin-right: 2%;ma;max-width: 25%;border-radius: 1%;}
 
 ul.navbar-nav.text-uppercase.ml-auto {
-    float: right;
-    position: relative;
-    left: 25%;
+    border-bottom: dotted #204312  6px;
+    position:  relative;
+    left: 10%;
+    float:  right;
 }
 
 a.nav-link.js-scroll-trigger {
     font-family: TrixieCyr-Plain !important;
     font-size: 150% !important;
-    font-weight: 500 !important;
-    text-shadow: #ffa30f 0 0 2px;
+    font-weight: 600 !important;
+    text-shadow: #204312 0 0 2px;
     color: #204312;
 }
 a.nav-link{
@@ -514,20 +515,26 @@ ul.timeline li {
   width: 1110px;
 }
 nav#mainNav {
-    background-color: #204312e3;
-    width: 100%;
+    background-color: #fff;
+    width: 80%;
     position: fixed;
-    padding-bottom: 0;
-    box-shadow: #204312e3 0 0 5px 5px;
-    color:  #ffa30f !important;
+    padding-bottom: 0.5%;
+    box-shadow: #000000d4 5px 5px 15px 5px;
+    color: #204312 !important;
   }
   #mainNav.navbar-shrink{
-    color: #204312 !important;
-    background-color: #204312e3 !important;
+    color: #fff !important;
+    background-color: #204312 !important;
   }
 .porto{
   padding: 0;
 }
 i.fa.fa-plus.fa-3x {
     color: #204312;
+}
+#mainNav .navbar-nav .nav-item .nav-link{
+  color: #204312 !important;
+}
+.navbar-nav > li > a{
+  line-height: 0;
 }
