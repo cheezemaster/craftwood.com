@@ -4,13 +4,10 @@ img.logo {
 
     100%
     background-color: #ffa30fbf;
-    box-shadow: #ffa30fc4 0 0 10px 5px;
     border-radius: 100%;
-    background-color: #ffa30fc4;
+    left: 5%;
+    top: -60%;
     transform: rotate(-10deg);
-    left: 2%;
-    top: 20%;
-    border: #ffa30fb3 2px;
 }
 
 .container.inner.server {w;}
@@ -524,10 +521,18 @@ nav#mainNav {
     padding-bottom: 0.5%;
     box-shadow: #000000d4 5px 5px 15px 5px;
     color: #204312 !important;
+    top: 10%;
+    padding-top: 0.5%;
   }
   #mainNav.navbar-shrink{
-    color: #fff !important;
-    background-color: #204312de !important;
+    background-color: #fff  !important;
+    ne; */
+    background-color: #fff;
+    position: fixed;
+    padding-bottom: 0.5% !important;
+    box-shadow: #000000d4 5px 5px 15px 5px;
+    top: 4%;
+    width:  40%;
   }
 .porto{
   padding: 0;
