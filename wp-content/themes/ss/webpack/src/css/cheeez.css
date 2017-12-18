@@ -192,7 +192,7 @@ h2.section-heading.text-uppercase.serot {
 
 section#services {
     padding: 0;
-    
+
     /* rgin-top: 15%; */
     margin-bottom: 20%;
 }
@@ -449,7 +449,7 @@ header.masthead {
   transform: scale(1.2) rotate(18deg);
 }
 .seric1:hover{
-  :
+
 }
 .seric2:hover{
   transform: scale(1.2);
@@ -459,4 +459,7 @@ header.masthead {
 }
 .inner1{
   width: 90%;
+}
+.timeline-image {
+    border: 0 !important;
 }
