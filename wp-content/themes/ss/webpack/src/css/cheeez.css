@@ -36,17 +36,19 @@ ul.timeline h4 {
 }
 
 h2.section-heading.text-uppercase {
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 500;
     font-family: TrixieCyr-Plain;
     color: #204312;
     text-shadow: #204312 0 0 2px;
-    border-top: #204312  dotted 8px;
-    width: 90%;
+    border-top: #204312  dotted 6px;
+    width: 80%;
     margin:  auto;
     margin-top: 5%;
     margin-bottom: 5%;
     padding-top: 1%;
+    float:  right;
+    text-align:  right;
 }
 
 h4.service-heading {
@@ -201,7 +203,7 @@ h2.section-heading.text-uppercase.serot {
 .col-lg-12.text-center {
 }
 
-.col-lg-12.text-center {padding-bottom: 5%;}
+.col-lg-12.text-center {}
 
 section#services {
     padding: 0;
@@ -209,7 +211,7 @@ section#services {
     /* rgin-top: 15%; */
     margin-bottom: 40%;
     background-color:  #fff;
-    height: 200px;
+    height: 150px;
     box-shadow: #000000ab 5px 5px 8px 2px;
     border-radius: 1%;
 }
@@ -529,7 +531,6 @@ nav#mainNav {
     ne; */
     background-color: #fff;
     position: fixed;
-    padding-bottom: 0.5% !important;
     box-shadow: #000000d4 5px 5px 15px 5px;
     top: 4%;
     width:  40%;
@@ -567,6 +568,9 @@ i.fa.fa-plus.fa-3x {
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink img{
   width: 15%;
   top: -25%;
-  left: 0;
+  left: -1%;
   transform: rotate(-7deg);
+}
+section#contact{
+  padding: 0;
 }
