@@ -117,7 +117,7 @@
 
     <!-- Services -->
     <section id="services">
-      <div class="container inner">
+      <div class="container inner inner1">
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase serot">Services</h2>
@@ -145,7 +145,7 @@
               <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
               <i class="fa fa-lock fa-stack-1x fa-inverse srva"></i>
             </span>
-            <h4 class="service-heading">Web Security</h4>
+            <h4 class="service-heading">Web</h4>
             <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
         </div>

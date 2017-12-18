@@ -52,11 +52,10 @@ h2.section-heading.text-uppercase {
 
 h4.service-heading {
     font-size: 42px;
-    color: #204312 !important;
+    color: #ffa30f  !important;
     font-weight: 700;
-    text-shadow: #204312 0 0 2px;
+    text-shadow: #ffa30f  0 0 1px;
     font-family: TrixieCyr-Plain;
-    /* border-radius: 100%; */
 }
 
 h4 {}
@@ -120,7 +119,7 @@ i.fa.fa-laptop.fa-stack-1x.fa-inverse {color: #ffa30f;text-shadow: #ffa30f  0 0 
 
 span.fa-stack.fa-4x {
     border-radius: 100%;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .col-md-4.bglo han {}
@@ -175,9 +174,9 @@ li.tuobl {
 }
 
 p.text-muted.seer {
-    padding: 2% 4%;
+    padding: 4% 11%;
     color: #204312 !important;
-    font-size: 21px;
+    font-size: 18px;
     font-weight: 500;
 }
 
@@ -190,7 +189,7 @@ h2.section-heading.text-uppercase.serot {
 .col-lg-12.text-center {
 }
 
-.col-lg-12.text-center {padding-bottom: 5%;}
+.col-lg-12.text-center {padding-bottom: 10%;}
 
 section#services {
     padding: 5% 0;
@@ -386,7 +385,7 @@ header.masthead {
 -o-transition: all .5s ease;
 transition: all .5s ease;
 backface-visibility:hidden;
-margin-top: 20%;
+margin-top: 15%;
 }
 
 .portbg:hover{
@@ -446,13 +445,14 @@ header.masthead {
   transform: scale(1.2) rotate(18deg);
 }
 .seric1:hover{
-  transform: scale(1.2) rotate(8deg);
-  z-index: 1;
+  :
 }
 .seric2:hover{
   transform: scale(1.2);
   z-index:  1;
 }
 .seric3:hover{
-  transform: scale(1.2) rotate(3deg);
+}
+.inner1{
+  width: 90%;
 }
