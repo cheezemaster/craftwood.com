@@ -1,5 +1,5 @@
 img.logo {
-    width: 15%;
+    width: 20%;
     position: absolute;
 
     100%
@@ -8,6 +8,8 @@ img.logo {
     left: 5%;
     top: -85%;
     transform: rotate(10deg);
+    background-color:  #fff;
+    box-shadow: #000 10px 10px 5px 5px;
 }
 
 .container.inner.server {w;}
@@ -47,8 +49,8 @@ h2.section-heading.text-uppercase {
     margin-top: 2%;
     margin-bottom: 5%;
     padding-top: 1%;
-    float:  right;
-    text-align:  right;
+    float: right;
+    text-align: left;
 }
 
 h4.service-heading {
