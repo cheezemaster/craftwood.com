@@ -43,10 +43,10 @@ h2.section-heading.text-uppercase {
     font-family: TrixieCyr-Plain;
     color: #204312;
     text-shadow: #204312 0 0 2px;
-    border-bottom: dotted 8px;
+    border-bottom: #204312  dotted 8px;
     width: 90%;
     margin:  auto;
-    margin-top: 10%;
+    margin-top: 5%;
     margin-bottom: 5%;
 }
 
@@ -182,7 +182,7 @@ p.text-muted.seer {
 
 h2.section-heading.text-uppercase.serot {
     color: #204312;
-    text-shadow: #204312 0 0 3px;
+    text-shadow: #204312 0 0 2px;
     font-weight: 700;
 }
 
@@ -192,7 +192,10 @@ h2.section-heading.text-uppercase.serot {
 .col-lg-12.text-center {padding-bottom: 10%;}
 
 section#services {
-    padding: 5% 0;
+    padding: 0;
+    
+    /* rgin-top: 15%; */
+    margin-bottom: 20%;
 }
 
 .col-lg-12.text-center.servet {
@@ -385,7 +388,8 @@ header.masthead {
 -o-transition: all .5s ease;
 transition: all .5s ease;
 backface-visibility:hidden;
-margin-top: 15%;
+margin-top: 5%;
+padding: 0;
 }
 
 .portbg:hover{
@@ -432,6 +436,7 @@ header.masthead {
   background-size: 100%;
   margin: -5% 0;
   transform: scale(1.2)rotate(-15deg);
+  z-index:  1;
 }
 .seric2{
   background-image: url(/img/images/bloknot2.png);
