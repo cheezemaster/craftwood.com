@@ -16,7 +16,7 @@ img.logo {
 section#portfolio portbg {}
 
 .portbg {
-    box-shadow: #fff 0px 0px 5px 5px !important;
+    box-shadow: #000 5px 5px 16px 5px !important;
     background-color: #fff !important;
     width: 100%;
 }
@@ -187,8 +187,6 @@ h2.section-heading.text-uppercase.serot {
 .col-lg-12.text-center {padding-bottom: 5%;}
 
 section#services {
-    background: #ffa30fab;
-    box-shadow: #ffa30fab 0 0 10px 5px;
     padding: 5% 0;
 }
 
