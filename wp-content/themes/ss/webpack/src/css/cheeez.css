@@ -138,7 +138,7 @@ ul.navbar-nav.text-uppercase.ml-auto {
     position:  relative;
     left: 4%;
     float:  right;
-    border-bottom-width: 8px;
+    border-bottom-width: 6px;
 }
 
 a.nav-link.js-scroll-trigger {
@@ -525,7 +525,7 @@ nav#mainNav {
   }
   #mainNav.navbar-shrink{
     color: #fff !important;
-    background-color: #204312 !important;
+    background-color: #204312de !important;
   }
 .porto{
   padding: 0;
@@ -535,4 +535,10 @@ i.fa.fa-plus.fa-3x {
 }
 #mainNav .navbar-nav .nav-item .nav-link{
   color: #204312 !important;
+  padding: 0.5em 1em !important;
 }
+
+.navbar-nav > li > a {
+
+    line-height: 0 !important;
+  }
