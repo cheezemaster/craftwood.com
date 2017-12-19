@@ -12,7 +12,7 @@ img.logo {
     box-shadow: #000000a8 10px 10px 5px 5px;
 }
 
-.container.inner.server {w;height: 80px;width: 100%;padding:  0;}
+.container.inner.server {w;height: 70px;width: 100%;padding:  0;}
 
 section#portfolio portbg {}
 
@@ -137,9 +137,9 @@ span.fa-stack.fa-4x {
 
 ul.navbar-nav.text-uppercase.ml-auto {
     position:  relative;
-    float: right;
+    /* float: right; */
     border-bottom-width: 6px;
-    padding-left: 6%;
+    padding-left: 5%;
 }
 
 a.nav-link.js-scroll-trigger {
@@ -521,12 +521,11 @@ ul.timeline li {
   width: 1110px;
 }
 nav#mainNav {
-    background-color: #fff;
+    background-color: #204312;
     width: 80%;
     position: fixed;
     padding-bottom: 0%;
     box-shadow: #0000009c 5px 5px 5px 5px;
-    color: #204312 !important;
     top: 5%;
     right: 0px !important;
     padding-top: 0;
@@ -552,8 +551,9 @@ i.fa.fa-plus.fa-3x {
     color: #204312;
 }
 #mainNav .navbar-nav .nav-item .nav-link{
-  color: #204312 !important;
+  color: #fff !important;
   padding: 0.5em 1em !important;
+  text-shadow: #204312 0 0 0px;
 }
 
 .navbar-nav > li > a {
