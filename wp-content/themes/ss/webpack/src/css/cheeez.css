@@ -1,13 +1,13 @@
 img.logo {
-    width: 19%;
+    width: 25%;
     position: absolute;
 
     100%
     background-color: #ffa30fbf;
     border-radius: 100%;
-    left: 93%;
-    top: -111%;
-    transform: rotate(20deg);
+    left: -15%;
+    top: -72%;
+    transform: rotate(-15deg);
     background-color:  #fff;
     box-shadow: #000000a8 10px 10px 5px 5px;
 }
@@ -216,6 +216,7 @@ section#services {
     height: 150px;
     box-shadow: #000000ab 5px 5px 8px 2px;
     border-radius: 1%;
+    margin-top: 20%;
 }
 
 .col-lg-12.text-center.servet {
@@ -398,7 +399,7 @@ div#carousel {
 }
 header.masthead {
     background: none !important;
-    margin-top: 20%;
+    margin-top: 10%;
 }
 
 .portbg {
@@ -526,12 +527,12 @@ nav#mainNav {
     padding-bottom: 0%;
     box-shadow: #0000009c 5px 5px 5px 5px;
     color: #204312 !important;
-    top: 17%;
-    left: 0;
+    top: 5%;
+    right: 0px !important;
     padding-top: 0;
     border-radius:  0;
     padding:  0;
-    border-top: #ffa30f  solid 9px;
+    left: auto;
   }
   #mainNav.navbar-shrink{
     background-color: #fff  !important;
@@ -580,4 +581,30 @@ i.fa.fa-plus.fa-3x {
 }
 section#contact{
   padding: 0;
+}
+#mainNav .navbar-nav .nav-item .nav-link{
+  width: auto;
+}
+.menka{
+  border-bottom: #204312  dotted 6px;
+  width: 100%;
+  position:  absolute;
+  top: 0%;
+  height: 70px;
+  right:  0;
+  border-top: #204312  solid 6px;
+}
+.menu1 {
+}
+
+.menu2 {
+}
+
+.menu3 {
+}
+
+.menu4 {
+}
+
+.menu5 {
 }
