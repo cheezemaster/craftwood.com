@@ -106,6 +106,8 @@ nav ul li {
   line-height: 60px;
   font-family: TrixieCyr-Plain !important;
   font-size: 20px;
+  margin-right: 3%;
+  width: 210px;
 }
 nav ul li a {
   text-decoration: none;

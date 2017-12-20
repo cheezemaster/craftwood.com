@@ -5,14 +5,14 @@ img.logo {
     100%
     background-color: #ffa30fbf;
     border-radius: 100%;
-    left: 0%;
+    left: -1%;
     top: -90%;
     transform: rotate(-15deg);
-    background-color: #fff;
+    background-color: #FFF;
     box-shadow: #000000a8 -10px 0px 5px 5px;
 }
 
-.container.inner.server {w;height: 80px;width: 100%;padding:  0;}
+.container.inner.server {w;height: 30px;width: 100%;padding:  0;}
 
 section#portfolio portbg {}
 
@@ -137,9 +137,8 @@ span.fa-stack.fa-4x {
 
 ul.navbar-nav.text-uppercase.ml-auto {
     position:  relative;
-    /* float: right; */
-    border-bottom-width: 6px;
-    padding-left: 5%;
+    float:  right;
+    right: 0;
 }
 
 a.nav-link.js-scroll-trigger {
@@ -526,12 +525,14 @@ nav#mainNav {
     position: fixed;
     padding-bottom: 0%;
     box-shadow: #0000009c 5px 5px 5px 5px;
-    top: 5%;
+    top: 10%;
     right: 0px !important;
     padding-top: 0;
     border-radius:  0;
     padding:  0;
     left: auto;
+    background-color: #204312e0;
+    height: 10%;
   }
   #mainNav.navbar-shrink{
     background-color: #fff  !important;
@@ -553,7 +554,7 @@ i.fa.fa-plus.fa-3x {
 #mainNav .navbar-nav .nav-item .nav-link{
   color: #204312 !important;
   padding: 0.5em 1em !important;
-  text-shadow: #204312 0 0 0px;
+  text-shadow: #204312 0 0 1px;
 }
 
 .navbar-nav > li > a {
@@ -584,6 +585,9 @@ section#contact{
 }
 #mainNav .navbar-nav .nav-item .nav-link{
   width: auto;
+  box-shadow: #0009 5px 5px 10px 5px;
+  background-color: #fff;
+  border-radius:  4%;
 }
 .menka{
   /* border-bottom: #fff dotted 10px; */
