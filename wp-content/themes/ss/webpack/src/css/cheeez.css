@@ -1,18 +1,18 @@
 img.logo {
-    width: 25%;
+    width: 15%;
     position: absolute;
 
     100%
     background-color: #ffa30fbf;
     border-radius: 100%;
-    left: -15%;
-    top: -72%;
+    left: 0%;
+    top: -90%;
     transform: rotate(-15deg);
-    background-color:  #fff;
-    box-shadow: #000000a8 10px 10px 5px 5px;
+    background-color: #fff;
+    box-shadow: #000000a8 -10px 0px 5px 5px;
 }
 
-.container.inner.server {w;height: 70px;width: 100%;padding:  0;}
+.container.inner.server {w;height: 80px;width: 100%;padding:  0;}
 
 section#portfolio portbg {}
 
@@ -521,8 +521,8 @@ ul.timeline li {
   width: 1110px;
 }
 nav#mainNav {
-    background-color: #204312;
-    width: 80%;
+    background-color: #fff;
+    width: 90%;
     position: fixed;
     padding-bottom: 0%;
     box-shadow: #0000009c 5px 5px 5px 5px;
@@ -551,7 +551,7 @@ i.fa.fa-plus.fa-3x {
     color: #204312;
 }
 #mainNav .navbar-nav .nav-item .nav-link{
-  color: #fff !important;
+  color: #204312 !important;
   padding: 0.5em 1em !important;
   text-shadow: #204312 0 0 0px;
 }
@@ -586,13 +586,13 @@ section#contact{
   width: auto;
 }
 .menka{
-  border-bottom: #204312  dotted 6px;
+  /* border-bottom: #fff dotted 10px; */
   width: 100%;
   position:  absolute;
-  top: 0%;
-  height: 70px;
+  top: 15%;
+  height: 0;
   right:  0;
-  border-top: #204312  solid 6px;
+  /* border-top: #fff  solid 10px; */
 }
 .menu1 {
 }
