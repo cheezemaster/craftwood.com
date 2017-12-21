@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'letteratrentadue';
+  src: url('../fonts/letteratrentadue.ttf');
+  src: url('../fonts/letteratrentadue.eot');
+}
 img.logo {
     width: 17%;
     position: absolute;
@@ -660,4 +665,16 @@ section#contact{
   margin-left: 10%;
   color: #204312;
 }
-.menushka:hover{transform: scale(1.2);color:  #ffa30f !important;}
+.menushka:hover{
+  transform: scale(1.2) rotate(5deg);
+  color:  #ffa30f !important;
+  text-shadow: #ffa30f 0 0 1px !important;
+}
+.soch:hover{
+  transform: scale(1.2) rotate(360deg);
+  color: #ffa30f !important;
+  text-shadow:  #ffa30f 0 0 2px;
+}
+#mainNav.navbar-shrink.maill{
+  display: none;
+}

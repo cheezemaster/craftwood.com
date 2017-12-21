@@ -37,22 +37,22 @@
         <div class="soc">
         <ul class="list-inline social-buttons socin">
         <li class="list-inline-item">
-          <a href="#">
+          <a href="#" class="soch">
             <i class="fa fa-vk"></i>
           </a>
         </li>
         <li class="list-inline-item">
-          <a href="#">
+          <a href="#" class="soch">
             <i class="fa fa-facebook"></i>
           </a>
         </li>
         <li class="list-inline-item">
-          <a href="#">
+          <a href="#" class="soch">
             <i class="fa fa-instagram"></i>
           </a>
         </li>
         <li class="list-inline-item">
-          <a href="#">
+          <a href="#" class="soch">
             <i class="fa fa-pinterest"></i>
           </a>
         </li>
