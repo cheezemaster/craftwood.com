@@ -618,13 +618,27 @@ section#contact{
 left: 0;
 }
 .telefon{
-
+position:  relative;
+top: -30px;
 }
 .socin{
-top: -40px;
+top: -75px;
 position: relative;
-left: -40%;
+right: 0;
 }
 .socin li{
-  
+  width: 6%;
+}
+.socin li a{
+  font-size: 28px !important;
+  width: 55px !important;
+  height: 55px !important;
+  line-height: 55px !important;
+  background-color:  #fff !important;
+  color: #204312 !important;
+  text-shadow: #204312 0 0 1px;
+}
+.maill{
+  position: relative;
+  top: -50px;
 }

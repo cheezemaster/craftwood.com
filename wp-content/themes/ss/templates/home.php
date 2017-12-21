@@ -30,11 +30,13 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="menka">
+        <div class="telefon">+38063 29 55 000</div>
+        <div class="maill">woodcraft.od@gmail.com</div>
         <div class="soc">
         <ul class="list-inline social-buttons socin">
         <li class="list-inline-item">
           <a href="#">
-            <i class="fa fa-twitter"></i>
+            <i class="fa fa-vk"></i>
           </a>
         </li>
         <li class="list-inline-item">
@@ -44,12 +46,16 @@
         </li>
         <li class="list-inline-item">
           <a href="#">
-            <i class="fa fa-linkedin"></i>
+            <i class="fa fa-instagram"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="#">
+            <i class="fa fa-pinterest"></i>
           </a>
         </li>
       </ul>
     </div>
-    <div class="telefon"></div>
       </div>
       <div class="container inner server">
 
