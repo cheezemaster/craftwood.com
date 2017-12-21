@@ -546,9 +546,8 @@ nav#mainNav {
     ne; */
     background-color: #fff;
     position: fixed;
-    box-shadow: #000000d4 5px 5px 15px 5px;
     top: 4%;
-    width:  40%;
+    width: 10%;
   }
 .porto{
   padding: 0;
@@ -680,6 +679,9 @@ section#contact{
   color: #ffa30f !important;
   text-shadow:  #ffa30f 0 0 2px;
 }
-#mainNav.navbar-shrink.menka.maill{
+#mainNav.navbar-shrink a{
   display: none;
+}
+#mainNav.navbar-shrink img{
+  width: 100%;
 }
