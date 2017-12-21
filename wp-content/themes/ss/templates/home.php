@@ -160,6 +160,7 @@
               <i class="fa fa-shopping-cart fa-stack-1x fa-inverse srva"></i>
             </span>
             <h4 class="service-heading">Монтаж</h4>
+            <div class="cardon"></div>
             <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
           <div class="col-md-4 bglo han serbg seric2">
@@ -168,6 +169,7 @@
               <i class="fa fa-laptop fa-stack-1x fa-inverse srva"></i>
             </span>
             <h4 class="service-heading">Дизайн</h4>
+            <div class="cardon"></div>
             <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
           <div class="col-md-4 bglo han serbg seric3">
@@ -176,6 +178,7 @@
               <i class="fa fa-lock fa-stack-1x fa-inverse srva"></i>
             </span>
             <h4 class="service-heading">Скорость</h4>
+            <div class="cardon"></div>
             <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
         </div>
@@ -187,7 +190,7 @@
       <div class="container inner port">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Продукция</h2>
+            <h2 class="section-heading text-uppercase produkt">Продукция</h2>
           </div>
         </div>
         <div class="row">
@@ -289,6 +292,7 @@
               <i class="fa fa-shopping-cart fa-stack-1x fa-inverse srva"></i>
             </span>
             <h4 class="service-heading">Уникальность</h4>
+            <div class="cardon"></div>
             <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
           <div class="col-md-4 bglo han serbg seric2">
@@ -297,6 +301,7 @@
               <i class="fa fa-laptop fa-stack-1x fa-inverse srva"></i>
             </span>
             <h4 class="service-heading">Качество</h4>
+            <div class="cardon"></div>
             <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
           <div class="col-md-4 bglo han serbg seric3">
@@ -305,6 +310,7 @@
               <i class="fa fa-lock fa-stack-1x fa-inverse srva"></i>
             </span>
             <h4 class="service-heading">Эксклюзив</h4>
+            <div class="cardon"></div>
             <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
           </div>
         </div>
@@ -475,7 +481,6 @@
         </div>
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
           </div>
         </div>
       </div>
