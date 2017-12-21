@@ -30,8 +30,10 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="menka">
-        <div class="telefon">+38063 29 55 000</div>
-        <div class="maill">woodcraft.od@gmail.com</div>
+
+        <div class="maill">+38063 29 55 000
+          <a href="#">woodcraft.od@gmail.com</a>
+        </div>
         <div class="soc">
         <ul class="list-inline social-buttons socin">
         <li class="list-inline-item">
@@ -67,19 +69,19 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger menu1" href="#services">Главная</a>
+              <a class="nav-link js-scroll-trigger menu1 menushka" href="#services">Главная</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger menu2" href="#portfolio">Продукция</a>
+              <a class="nav-link js-scroll-trigger menu2 menushka" href="#portfolio">Продукция</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger menu3" href="#about">О Нас</a>
+              <a class="nav-link js-scroll-trigger menu3 menushka" href="#about">О Нас</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger menu4" href="#team">Отзывы</a>
+              <a class="nav-link js-scroll-trigger menu4 menushka" href="#team">Отзывы</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger menu5" href="#contact">Контакты</a>
+              <a class="nav-link js-scroll-trigger menu5 menushka" href="#contact">Контакты</a>
             </li>
           </ul>
         </div>

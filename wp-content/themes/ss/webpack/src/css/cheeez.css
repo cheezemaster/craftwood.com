@@ -138,8 +138,8 @@ span.fa-stack.fa-4x {
 ul.navbar-nav.text-uppercase.ml-auto {
     position:  relative;
     float:  right;
-    left: 5%;
-    top: 40px;
+    left: 4%;
+    top: 45px;
     width: 100%;
 }
 
@@ -532,8 +532,9 @@ nav#mainNav {
     border-radius:  0;
     padding:  0;
     left: auto;
-    background-color: #204312e0;
-    height: 10%;
+    background-color: #fff;
+    height: 12%;
+    border-top: #204312 solid 6px;
   }
   #mainNav.navbar-shrink{
     background-color: #fff  !important;
@@ -553,9 +554,10 @@ i.fa.fa-plus.fa-3x {
     color: #204312;
 }
 #mainNav .navbar-nav .nav-item .nav-link{
-  color: #204312 !important;
+  color: #fff !important;
   padding: 0.5em 1em !important;
-  text-shadow: #204312 0 0 1px;
+  text-shadow: #ffffff6e 0 0 0.5px;
+  letter-spacing: 3px !important;
 }
 
 .navbar-nav > li > a {
@@ -585,15 +587,16 @@ section#contact{
   padding: 0;
 }
 #mainNav .navbar-nav .nav-item .nav-link{
-  width: auto;
-  box-shadow: #0009 5px 5px 10px 5px;
-  background-color: #fff;
+  box-shadow: #0009 -6px 15px 5px 0px, inset #fff 0px 5px 7px -3px;
+  background-color: #204312;
   border-radius: 4%;
   padding: 0.8em !important;
+  width: 100%;
+  height: 50px;
 }
 .menka{
-  border-bottom: #fff dotted 8px;
-  width: 85%;
+  border-bottom: #204312 dotted 8px;
+  width: 90%;
   position:  absolute;
   top: 55%;
   height: 0;
@@ -615,11 +618,16 @@ section#contact{
 }
 .soc{
 position:  relative;
-left: 0;
+left: 0%;
+top: -55px;
 }
 .telefon{
 position:  relative;
 top: -30px;
+color: #ffa30f;
+text-shadow: #ffa30f 0 0 1px;
+font-size: 28px;
+font-family: TrixieCyr-Plain;
 }
 .socin{
 top: -75px;
@@ -627,18 +635,31 @@ section#contact{
 right: 0;
 }
 .socin li{
-  width: 6%;
+  width: 4.5%;
 }
 .socin li a{
   font-size: 28px !important;
   width: 55px !important;
   height: 55px !important;
   line-height: 55px !important;
-  background-color:  #fff !important;
-  color: #204312 !important;
-  text-shadow: #204312 0 0 1px;
+  background-color: #204312 !important;
+  box-shadow: #204312 0 0 2px 1px;
+  color: #fff !important;
+  text-shadow: #fff 0 0 2px;
 }
 .maill{
   position: relative;
   top: -50px;
+  right: -130px;
+  color: #204312;
+  text-shadow: #204312 0 0 2px;
+  font-size: 30px;
+  font-family: TrixieCyr-Plain;
+}
+.maill a{
+  margin-left: 10%;
+  color: #204312;
+}
+.menushka:hover{
+transform: scale(1.2);
 }
