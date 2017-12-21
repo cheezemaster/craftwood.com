@@ -22,8 +22,6 @@ img.logo {
 section#portfolio portbg {}
 
 .portbg {
-    /* box-shadow: #000000bf 5px 5px 16px 5px; */
-    background-color: #fff !important;
     width: 80%;
 }
 
@@ -61,7 +59,7 @@ h2.section-heading.text-uppercase {
 h4.service-heading {
     font-size: 42px;
     color: #ffa30f  !important;
-    font-weight: 700;
+    font-weight: 500;
     text-shadow: #ffa30f  0 0 1px;
     font-family: TrixieCyr-Plain;
 }
@@ -117,19 +115,23 @@ ul.timeline h4 {
 
     04312a3 */
 padding-top: 14.5%;
-background-color:  #fff;
+background-color: #204312;
 box-shadow: #000000ab 5px 5px 8px 2px;
-/* margin: 0 0%; */
 }
 
 i.fa.fa-circle.fa-stack-2x.text-primary {
-    color: #204312e6 !important;
-    text-shadow: #ffa30f 0px 0px 1px;
-    box-shadow: #204312 0px 0px 40px 10px;
+    color: #fff  !important;
+    text-shadow: #fff 0px 0px 1px;
+    box-shadow: #fff 0px 0px 10px 5px, inset #ffa30f  0px 0px 10px 2px;
     border-radius: 100%;
 }
 
-i.fa.fa-laptop.fa-stack-1x.fa-inverse {color: #ffa30f;text-shadow: #ffa30f  0 0 2px;}
+i.fa.fa-laptop.fa-stack-1x.fa-inverse {
+  color: #204312;
+text-shadow: #204312 0 0 1px;
+box-shadow: inset #ffa30f 0 0 19px 9px, #ffa30f 0 0 9px 4px;
+border-radius: 100%;
+}
 
 span.fa-stack.fa-4x {
     border-radius: 100%;
@@ -197,7 +199,7 @@ li.tuobl {
 }
 
 p.text-muted.seer {
-    color: #204312 !important;
+    color: #fff !important;
     font-size: 18px;
     font-weight: 500;
 }
@@ -222,7 +224,7 @@ section#services {
     height: 150px;
     box-shadow: #000000ab 5px 5px 8px 2px;
     border-radius: 1%;
-    margin-top: 20%;
+    margin-top: 0%;
 }
 
 .col-lg-12.text-center.servet {
@@ -232,12 +234,9 @@ section#services {
 
 .row.sser {
 }
-i.fa.fa-shopping-cart.fa-stack-1x.fa-inverse.srva {color: #ffa30f;text-shadow: #ffa30f 0 0 1px;}
+i.fa.fa-shopping-cart.fa-stack-1x.fa-inverse.srva {color: #204312;text-shadow: #204312 0 0 1px;px;box-shadow: inset #ffa30f 0 0 19px 9px, #ffa30f 0 0 9px 4px;border-radius: 100%;}
 
-i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {
-    color: #ffa30f;
-    text-shadow: #ffa30f 0 0 2px;
-}
+i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {color: #204312;text-shadow: #204312 0 0 1px;box-shadow: inset #ffa30f 0 0 19px 9px, #ffa30f 0 0 9px 4px;border-radius: 100%;}
 #slider {
    background: transparent;
    background-image: url(/img/images/logo.png);
@@ -424,6 +423,7 @@ header.masthead {
   transform: scale(1.2);
   box-shadow: #000000bf 10px 10px 16px 16px;
   z-index: 3 !important;
+  background-color: #fff !important;
 }
 
 .portbg h1{
@@ -458,10 +458,8 @@ header.masthead {
 }
 
 .seric1{
-  /* background-image: url(/img/images/bloknot.png); */
-  background-size: 100%;
-  margin: -5% 0;
-  /* transform: scale(1.2)rotate(-15deg); */
+   */
+/*;;; */
 }
 .seric2{
   /* background-image: url(/img/images/bloknot2.png); */
@@ -547,12 +545,14 @@ nav#mainNav {
     background-color: #fff;
     position: fixed;
     top: 4%;
-    width: 27%;
+    width: 28%;
   }
 .porto{
   padding: 0;
   box-shadow: #000000d1 10px 10px 10px 0px;
   border-radius: 1%;
+  background-size: 80%;
+  bottom -200% right 200%;
 }
 i.fa.fa-plus.fa-3x {
     color: #204312;
@@ -570,7 +570,7 @@ i.fa.fa-plus.fa-3x {
   }
 .container.inner.inner2 {
   width: 90%;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 .secondd{
   background-color: transparent !important;
@@ -584,7 +584,7 @@ i.fa.fa-plus.fa-3x {
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink img{
   width: 26%;
   top: -13%;
-  left: -8%;
+  left: -10%;
   transform: rotate(-7deg);
 }
 section#contact{
@@ -597,6 +597,7 @@ section#contact{
   padding: 0.8em !important;
   width: 100%;
   height: 50px;
+  border-bottom: #fff solid 4px;
 }
 .menka{
   border-bottom: #204312 dotted 8px;
@@ -668,6 +669,7 @@ section#contact{
   transform: scale(1.2) rotate(5deg);
   color:  #ffa30f !important;
   text-shadow: #ffa30f 0 0 1px !important;
+  border-bottom: #ffa30f  solid 4px !important;
 }
 .soch:hover{
   transform: scale(1.2) rotate(360deg);
@@ -685,4 +687,7 @@ display: none;
 }
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink a{
     margin-left: -23%;
+}
+#portfolio .portfolio-item .portfolio-caption{
+  background-color: transparent !important;
 }
