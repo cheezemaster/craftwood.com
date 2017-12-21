@@ -151,7 +151,7 @@ a.nav-link.js-scroll-trigger {
     color: #204312;
 }
 a.nav-link{
-      color: #ffa30f !important;
+      /* color: #ffa30f !important; */
 }
 .container.inner.onas.row {
 }
@@ -554,7 +554,7 @@ i.fa.fa-plus.fa-3x {
     color: #204312;
 }
 #mainNav .navbar-nav .nav-item .nav-link{
-  color: #fff !important;
+  color: #fff;
   padding: 0.5em 1em !important;
   text-shadow: #ffffff6e 0 0 0.5px;
   letter-spacing: 3px !important;
@@ -660,6 +660,4 @@ section#contact{
   margin-left: 10%;
   color: #204312;
 }
-.menushka:hover{
-transform: scale(1.2);
-}
+.menushka:hover{transform: scale(1.2);color:  #ffa30f !important;}
