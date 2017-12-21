@@ -621,5 +621,10 @@ section#contact{
 
 }
 .socin{
-
+top: -40px;
+position: relative;
+left: -40%;
+}
+.socin li{
+  
 }
