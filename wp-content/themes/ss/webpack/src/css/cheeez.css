@@ -675,6 +675,11 @@ section#contact{
   color: #ffa30f !important;
   text-shadow:  #ffa30f 0 0 2px;
 }
-#mainNav.navbar-shrink.maill{
+.soch:active{
+  transform: scale(1.2) rotate(360deg);
+  color: #ffa30f !important;
+  text-shadow:  #ffa30f 0 0 2px;
+}
+#mainNav.navbar-shrink.menka.maill{
   display: none;
 }
