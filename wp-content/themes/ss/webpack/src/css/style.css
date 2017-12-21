@@ -105,9 +105,10 @@ nav ul li {
   display: inline-block;
   line-height: 60px;
   font-family: TrixieCyr-Plain !important;
-  font-size: 20px;
-  margin-right: 3%;
-  width: 210px;
+  font-size: 18px;
+  margin-right: 2%;
+  width: 165px;
+  text-align:  center;
 }
 nav ul li a {
   text-decoration: none;

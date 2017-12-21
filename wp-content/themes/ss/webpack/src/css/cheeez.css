@@ -1,18 +1,18 @@
 img.logo {
-    width: 15%;
+    width: 17%;
     position: absolute;
 
     100%
     background-color: #ffa30fbf;
     border-radius: 100%;
-    left: -1%;
+    left: -5%;
     top: -90%;
     transform: rotate(-15deg);
     background-color: #FFF;
     box-shadow: #000000a8 -10px 0px 5px 5px;
 }
 
-.container.inner.server {w;height: 30px;width: 100%;padding:  0;}
+.container.inner.server {w;width: 100%;padding:  0;}
 
 section#portfolio portbg {}
 
@@ -138,7 +138,9 @@ span.fa-stack.fa-4x {
 ul.navbar-nav.text-uppercase.ml-auto {
     position:  relative;
     float:  right;
-    right: 0;
+    left: 5%;
+    top: 40px;
+    width: 100%;
 }
 
 a.nav-link.js-scroll-trigger {
@@ -398,7 +400,7 @@ div#carousel {
 }
 header.masthead {
     background: none !important;
-    margin-top: 10%;
+    margin-top: 14%;
 }
 
 .portbg {
@@ -520,8 +522,7 @@ ul.timeline li {
   width: 1110px;
 }
 nav#mainNav {
-    background-color: #fff;
-    width: 90%;
+    width: 85%;
     position: fixed;
     padding-bottom: 0%;
     box-shadow: #0000009c 5px 5px 5px 5px;
@@ -587,16 +588,16 @@ section#contact{
   width: auto;
   box-shadow: #0009 5px 5px 10px 5px;
   background-color: #fff;
-  border-radius:  4%;
+  border-radius: 4%;
+  padding: 0.8em !important;
 }
 .menka{
-  /* border-bottom: #fff dotted 10px; */
-  width: 100%;
+  border-bottom: #fff dotted 8px;
+  width: 85%;
   position:  absolute;
-  top: 15%;
+  top: 55%;
   height: 0;
   right:  0;
-  /* border-top: #fff  solid 10px; */
 }
 .menu1 {
 }
@@ -611,4 +612,10 @@ section#contact{
 }
 
 .menu5 {
+}
+.soc{
+
+}
+.telefon{
+  
 }

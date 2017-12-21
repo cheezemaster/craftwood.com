@@ -29,7 +29,28 @@
 <div class="container">
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-      <div class="menka"></div>
+      <div class="menka">
+        <div class="soc">
+        <ul class="list-inline social-buttons">
+        <li class="list-inline-item">
+          <a href="#">
+            <i class="fa fa-twitter"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="#">
+            <i class="fa fa-facebook"></i>
+          </a>
+        </li>
+        <li class="list-inline-item">
+          <a href="#">
+            <i class="fa fa-linkedin"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="telefon"></div>
+      </div>
       <div class="container inner server">
 
         <img class="logo" src="/img/images/logo5.png">
