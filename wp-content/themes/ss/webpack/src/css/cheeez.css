@@ -582,9 +582,9 @@ i.fa.fa-plus.fa-3x {
   font-size: 16px !important;
 }
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink img{
-  width: 15%;
-  top: -25%;
-  left: -1%;
+  width: 26%;
+  top: -13%;
+  left: -8%;
   transform: rotate(-7deg);
 }
 section#contact{
@@ -683,4 +683,6 @@ section#contact{
 display: none;
 
 }
-.navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink a{}
+.navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink a{
+    margin-left: -23%;
+}
