@@ -57,11 +57,18 @@ h2.section-heading.text-uppercase {
 }
 
 h4.service-heading {
+    border-top: #fff dotted 5px;
     font-size: 42px;
     color: #ffa30f  !important;
     font-weight: 500;
     text-shadow: #ffa30f  0 0 1px;
     font-family: TrixieCyr-Plain;
+    width: 125%;
+    text-align: left;
+    ht; */
+    position:  relative;
+    left: -5%;
+    position:  relative;
 }
 
 h4 {}
