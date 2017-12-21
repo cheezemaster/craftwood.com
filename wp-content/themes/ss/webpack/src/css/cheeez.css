@@ -46,22 +46,21 @@ h2.section-heading.text-uppercase {
     font-family: TrixieCyr-Plain;
     color: #204312;
     text-shadow: #204312 0 0 2px;
-    border-top: #ffa30f   dotted 10px;
+    /* border-top: #ffa30f   solid 20px; */
     width: 50%;
     margin:  auto;
     margin-top: 2%;
     margin-bottom: 5%;
-    padding-top: 0%;
+    padding-top: 0;
     float: left;
     text-align: left;
 }
 
 h4.service-heading {
-    border-top: #ffa30f dotted 6px;
     font-size: 36px;
-    color: #fff  !important;
+    color: #ffa30f   !important;
     font-weight: 500;
-    text-shadow: #fff 0 0 0.5px;
+    text-shadow: #ffa30f 0 0 0.5px;
     font-family: TrixieCyr-Plain;
     width: 125%;
     text-align: left;
@@ -513,7 +512,7 @@ h2.section-heading.text-uppercase.abo {
     border-bottom: #ffa30f dotted 8px;
 }
 h2.section-heading.text-uppercase.serot {
-    margin-top: 2%;
+    margin-top: 5%;
     margin-bottom: 13%;
 }
 ul.timeline li {
@@ -548,7 +547,7 @@ nav#mainNav {
     left: auto;
     background-color: #fff;
     height: 12%;
-    border-top: #204312 solid 6px;
+    border-top: #204312 solid 10px;
   }
   #mainNav.navbar-shrink{
     background-color: #fff  !important;
@@ -571,7 +570,7 @@ i.fa.fa-plus.fa-3x {
 #mainNav .navbar-nav .nav-item .nav-link{
   color: #fff;
   padding: 0.5em 1em !important;
-  text-shadow: #ffffff6e 0 0 0.5px;
+  text-shadow: #000000d6 5px 5px 15px;
   letter-spacing: 3px !important;
 }
 
@@ -602,16 +601,15 @@ section#contact{
   padding: 0;
 }
 #mainNav .navbar-nav .nav-item .nav-link{
-  box-shadow: #0009 -6px 15px 5px 0px;
+  box-shadow: #0009 -6px 10px 5px 0px;
   background-color: #204312;
   border-radius: 4%;
   padding: 0.8em !important;
   width: 100%;
   height: 50px;
-  border-bottom: #fff solid 4px;
+  /* border-bottom: #fff solid 4px; */
 }
 .menka{
-  border-bottom: #204312 dotted 8px;
   width: 90%;
   position:  absolute;
   top: 55%;
@@ -676,11 +674,18 @@ section#contact{
   margin-left: 10%;
   color: #204312;
 }
+.menushka{
+  /* border-top: #ffa30f solid 4px; */
+  /* border-right: #ffa30f solid 4px; */
+  border-bottom: #fff solid 3.5px;
+  /* border-left: #ffa30f solid 4px; */
+}
 .menushka:hover{
   transform: scale(1.2) rotate(5deg);
   color:  #ffa30f !important;
-  text-shadow: #ffa30f 0 0 1px !important;
-  border-bottom: #ffa30f  solid 4px !important;
+  text-shadow: #000 0 0 20px !important;
+  border: #ffa30f  solid 2px !important;
+  box-shadow: #0009 -6px 15px 5px 0px, inset #0009 0 0 15px 5px !important;
 }
 .soch:hover{
   transform: scale(1.2) rotate(360deg);
