@@ -31,7 +31,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="menka">
         <div class="soc">
-        <ul class="list-inline social-buttons">
+        <ul class="list-inline social-buttons socin">
         <li class="list-inline-item">
           <a href="#">
             <i class="fa fa-twitter"></i>

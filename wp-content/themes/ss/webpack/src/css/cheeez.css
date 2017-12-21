@@ -614,8 +614,12 @@ section#contact{
 .menu5 {
 }
 .soc{
-
+position:  relative;
+left: 0;
 }
 .telefon{
-  
+
+}
+.socin{
+
 }
