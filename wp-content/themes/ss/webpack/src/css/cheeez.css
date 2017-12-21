@@ -58,7 +58,7 @@ h2.section-heading.text-uppercase {
 
 h4.service-heading {
     border-top: #fff dotted 5px;
-    font-size: 42px;
+    font-size: 36px;
     color: #ffa30f  !important;
     font-weight: 500;
     text-shadow: #ffa30f  0 0 1px;
@@ -129,20 +129,22 @@ ul.timeline h4 {
 i.fa.fa-circle.fa-stack-2x.text-primary {
     color: #fff  !important;
     text-shadow: #fff 0px 0px 1px;
-    box-shadow: #fff 0px 0px 10px 5px, inset #ffa30f  0px 0px 10px 2px;
+    box-shadow: #fff 0px 0px 10px 5px, inset #fff 0px 0px 10px 2px;
     border-radius: 100%;
 }
 
 i.fa.fa-laptop.fa-stack-1x.fa-inverse {
   color: #204312;
-text-shadow: #204312 0 0 1px;
-box-shadow: inset #ffa30f 0 0 19px 9px, #ffa30f 0 0 9px 4px;
-border-radius: 100%;
+  text-shadow: #204312 0 0 1px;
+  box-shadow: inset #fff 0 0 20px 15px, #fff 0 0 10px 5px;
+  border-radius: 100%;
 }
 
 span.fa-stack.fa-4x {
     border-radius: 100%;
-    font-size: 2em;
+    font-size: 1.5em;
+    position:  relative;
+    left: 40%;
 }
 
 .col-md-4.bglo han {}
@@ -241,9 +243,9 @@ section#services {
 
 .row.sser {
 }
-i.fa.fa-shopping-cart.fa-stack-1x.fa-inverse.srva {color: #204312;text-shadow: #204312 0 0 1px;px;box-shadow: inset #ffa30f 0 0 19px 9px, #ffa30f 0 0 9px 4px;border-radius: 100%;}
+i.fa.fa-shopping-cart.fa-stack-1x.fa-inverse.srva {color: #204312;text-shadow: #204312 0 0 1px;px;box-shadow: inset #fff 0 0 10px 15px, #fff 0 0 10px 5px;border-radius: 100%;}
 
-i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {color: #204312;text-shadow: #204312 0 0 1px;box-shadow: inset #ffa30f 0 0 19px 9px, #ffa30f 0 0 9px 4px;border-radius: 100%;}
+i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {color: #204312;text-shadow: #204312 0 0 1px;box-shadow: inset #fff 0 0 20px 15px, #fff 0 0 10px 5px;border-radius: 100%;}
 #slider {
    background: transparent;
    background-image: url(/img/images/logo.png);
@@ -482,7 +484,7 @@ header.masthead {
 .seric1:hover{box-shadow: #000000ab 16px 16px 16px 15px;z-index:  1;}
 .seric2:hover{
   transform: scale(1.2);
-  /* z-index:  1; */
+  z-index:  1;
   box-shadow: #000000ab 0 15px 20px 20px;
 }
 .seric3:hover{box-shadow: #000000ab 15px 15px 16px 20px;}
