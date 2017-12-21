@@ -547,7 +547,7 @@ nav#mainNav {
     background-color: #fff;
     position: fixed;
     top: 4%;
-    width: 10%;
+    width: 20%;
   }
 .porto{
   padding: 0;
@@ -680,8 +680,8 @@ section#contact{
   text-shadow:  #ffa30f 0 0 2px;
 }
 #mainNav.navbar-shrink a{
-  display: none;
+
 }
 #mainNav.navbar-shrink img{
-  width: 100%;
+  width: 30%;
 }
