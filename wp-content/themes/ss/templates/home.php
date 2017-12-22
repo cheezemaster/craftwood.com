@@ -28,6 +28,13 @@
   <body <?php body_class(); ?> id="page-top">
 <div class="container">
     <!-- Navigation -->
+    <div class="container lime pullUp">
+  <a>HOME</a>
+  <a>ARTICLES</a>
+  <a>PORTFOLIO</a>
+  <a>ABOUT</a>
+  <a>CONTACT</a>
+</div>
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="menka">
 

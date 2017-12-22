@@ -4,14 +4,14 @@
   src: url('../fonts/letteratrentadue.eot');
 }
 img.logo {
-    width: 17%;
+    width: 15%;
     position: absolute;
 
     100%
     background-color: #ffa30fbf;
     border-radius: 100%;
     left: -5%;
-    top: -90%;
+    top: -70%;
     transform: rotate(-15deg);
     background-color: #FFF;
     box-shadow: #000000a8 -10px 0px 5px 5px;
@@ -153,8 +153,8 @@ span.fa-stack.fa-4x {
 ul.navbar-nav.text-uppercase.ml-auto {
     position:  relative;
     float:  right;
-    left: 4%;
-    top: 45px;
+    left: 5%;
+    top: 30px;
     width: 100%;
 }
 
@@ -546,8 +546,10 @@ nav#mainNav {
     padding:  0;
     left: auto;
     background-color: #fff;
-    height: 12%;
-    border-top: #204312 solid 10px;
+    height: 10%;
+    /* border-top: #ffa30f solid 6px; */
+    /* outline: #fff  solid 10px; */
+    /* border-bottom: #204312 solid 6px; */
   }
   #mainNav.navbar-shrink{
     background-color: #fff  !important;
@@ -633,7 +635,7 @@ section#contact{
 .soc{
 position:  relative;
 left: 0%;
-top: -55px;
+top: -50px;
 }
 .telefon{
 position:  relative;
@@ -644,7 +646,7 @@ section#contact{
 font-family: TrixieCyr-Plain;
 }
 .socin{
-top: -75px;
+top: -70px;
 position: relative;
 right: 0;
 }
@@ -664,24 +666,28 @@ section#contact{
 .maill{
   position: relative;
   top: -50px;
-  right: -130px;
+  right: -120px;
   color: #204312;
   text-shadow: #204312 0 0 2px;
   font-size: 30px;
   font-family: TrixieCyr-Plain;
+  width: 100%;
+  text-align: left;
 }
 .maill a{
   margin-left: 10%;
   color: #204312;
+  margin-right: 15%;
 }
 .menushka{
-  /* border-top: #ffa30f solid 4px; */
-  /* border-right: #ffa30f solid 4px; */
-  border-bottom: #fff solid 3.5px;
-  /* border-left: #ffa30f solid 4px; */
+  /* border-top: #ffa30f solid 4px;
+  border-right: #ffa30f solid 4px;
+  border-top: #ffa30f solid 3.5px;
+  */
+  border-bottom: #fff  solid 4px;
 }
 .menushka:hover{
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.3);
   color:  #ffa30f !important;
   text-shadow: #000 0 0 20px !important;
   border: #ffa30f  solid 2px !important;
@@ -718,3 +724,20 @@ display: none;
   right: 20%;
   width: 100%;
 }
+/* div.pullUp ul li a:before
+{
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    left: 0px;
+    bottom: 0px;
+    content: '';
+    background: #FFF;
+    opacity: 0.3;
+    transition: all 0.3s;
+}
+
+div.pullUp ul li a:hover:before
+{
+    height: 100%;
+} */
