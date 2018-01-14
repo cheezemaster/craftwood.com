@@ -28,13 +28,7 @@
   <body <?php body_class(); ?> id="page-top">
 <div class="container">
     <!-- Navigation -->
-    <div class="container lime pullUp">
-  <a>HOME</a>
-  <a>ARTICLES</a>
-  <a>PORTFOLIO</a>
-  <a>ABOUT</a>
-  <a>CONTACT</a>
-</div>
+
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
       <div class="menka">
 
@@ -68,7 +62,7 @@
       </div>
       <div class="container inner server">
 
-        <img class="logo" src="/img/images/logo5.png">
+        <img class="logo" src="/img/images/logo4.png">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>
@@ -97,6 +91,35 @@
 
     <!-- Header -->
     <header class="masthead">
+      <div class="row text-center">
+        <div class="col-md-4 bglo han serbg seric1">
+          <span class="fa-stack fa-4x">
+            <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
+            <i class="fa fa-shopping-cart fa-stack-1x fa-inverse srva"></i>
+          </span>
+          <h4 class="service-heading">Монтаж</h4>
+          <div class="cardon"></div>
+          <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+        </div>
+        <div class="col-md-4 bglo han serbg seric2">
+          <span class="fa-stack fa-4x">
+            <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
+            <i class="fa fa-laptop fa-stack-1x fa-inverse srva"></i>
+          </span>
+          <h4 class="service-heading">Дизайн</h4>
+          <div class="cardon"></div>
+          <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+        </div>
+        <div class="col-md-4 bglo han serbg seric3">
+          <span class="fa-stack fa-4x">
+            <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
+            <i class="fa fa-lock fa-stack-1x fa-inverse srva"></i>
+          </span>
+          <h4 class="service-heading">Скорость</h4>
+          <div class="cardon"></div>
+          <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+        </div>
+      </div>
       <div class="container inner">
         <!-- <div class="intro-text">
           <div class="intro-lead-in">Welcome To Our Studio!</div>
@@ -160,35 +183,7 @@
             <h2 class="section-heading text-uppercase serot">Услуги</h2>
           </div>
         </div>
-        <div class="row text-center">
-          <div class="col-md-4 bglo han serbg seric1">
-            <span class="fa-stack fa-4x">
-              <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
-              <i class="fa fa-shopping-cart fa-stack-1x fa-inverse srva"></i>
-            </span>
-            <h4 class="service-heading">Монтаж</h4>
-            <div class="cardon"></div>
-            <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-          </div>
-          <div class="col-md-4 bglo han serbg seric2">
-            <span class="fa-stack fa-4x">
-              <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
-              <i class="fa fa-laptop fa-stack-1x fa-inverse srva"></i>
-            </span>
-            <h4 class="service-heading">Дизайн</h4>
-            <div class="cardon"></div>
-            <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-          </div>
-          <div class="col-md-4 bglo han serbg seric3">
-            <span class="fa-stack fa-4x">
-              <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
-              <i class="fa fa-lock fa-stack-1x fa-inverse srva"></i>
-            </span>
-            <h4 class="service-heading">Скорость</h4>
-            <div class="cardon"></div>
-            <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-          </div>
-        </div>
+
       </div>
     </section>
 
@@ -292,7 +287,7 @@
     <section class="secondd" id="services">
       <div class="container inner inner2">
 
-        <div class="row text-center">
+        <div class="row text-center in2">
           <div class="col-md-4 bglo han serbg seric1">
             <span class="fa-stack fa-4x">
               <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
