@@ -4,17 +4,18 @@
   src: url('../fonts/letteratrentadue.eot');
 }
 img.logo {
-    width: 21%;
+    width: 50%;
     position: absolute;
 
     100%
     background-color: #ffa30fbf;
     border-radius: 100%;
-    left: 2%;
-    top: 10%;
-    transform: rotate(15deg);
+    left: 0%;
+    top: -100%;
+    transform: rotate(-8deg);
     /* background-color: #fff; */
-    box-shadow: #000000a8 -10px 0px 5px 5px, inset #ffa30f  0 0 200px 1px, #000 0 0 10px 1px;
+    /* box-shadow: #000000a8 -10px 0px 5px 5px; */
+    padding: 0.1%;
 }
 
 .container.inner.server {w;width: 100%;padding:  0;}
@@ -152,9 +153,9 @@ span.fa-stack.fa-4x {
 ul.navbar-nav.text-uppercase.ml-auto {
     position: absolute;
     float: left;
-    left: 25%;
-    top: 200px;
-    width: 60%;
+    left: 15%;
+    top: 220px;
+    width: 100%;
 }
 
 a.nav-link.js-scroll-trigger {
@@ -165,7 +166,7 @@ a.nav-link.js-scroll-trigger {
     color: #ffa30f;
 }
 a.nav-link{
-      color: #ffa30f !important;
+      /* color: #ffa30f !important; */
 }
 .container.inner.onas.row {
 }
@@ -629,7 +630,7 @@ section#contact{
 #mainNav .navbar-nav .nav-item .nav-link{
   box-shadow: #0009 -6px 10px 5px 0px, inset #000 0 0 30px 1px;
   /* box-shadow: inset #204312 0 0 1px 1px; */
-  /* background-color: #ffffffde; */
+  background-color: #ffffffde;
   border-radius: 4%;
   padding: 0.8em !important;
   width: 100%;

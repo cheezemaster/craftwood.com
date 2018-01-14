@@ -62,7 +62,7 @@
       </div>
       <div class="container inner server">
 
-        <img class="logo" src="/img/images/logo5.png">
+        <img class="logo" src="/img/images/logo4.png">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>
