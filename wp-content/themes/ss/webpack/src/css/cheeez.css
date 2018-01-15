@@ -4,14 +4,14 @@
   src: url('../fonts/letteratrentadue.eot');
 }
 img.logo {
-    width: 50%;
+    width: 60%;
     position: absolute;
 
     100%
     background-color: #ffa30fbf;
     border-radius: 100%;
     left: 0%;
-    top: -100%;
+    top: -120%;
     transform: rotate(-8deg);
     /* background-color: #fff; */
     /* box-shadow: #000000a8 -10px 0px 5px 5px; */
@@ -160,7 +160,7 @@ ul.navbar-nav.text-uppercase.ml-auto {
 
 a.nav-link.js-scroll-trigger {
     font-family: TrixieCyr-Plain !important;
-    font-size: 100%;
+    font-size: 100% !important;
     font-weight: 500 !important;
     text-shadow: #204312 0 0 2px;
     color: #ffa30f;
@@ -628,14 +628,12 @@ section#contact{
   margin-right: auto;
 }
 #mainNav .navbar-nav .nav-item .nav-link{
-  box-shadow: #0009 -6px 10px 5px 0px, inset #000 0 0 30px 1px;
+  box-shadow: #0009 -6px 10px 5px 0px, inset #000 0 0 20px 1px;
   /* box-shadow: inset #204312 0 0 1px 1px; */
-  background-color: #ffffffde;
-  border-radius: 4%;
-  padding: 0.8em !important;
-  width: 100%;
-  height: 50px;
-  /* border-bottom: #fff solid 4px; */
+  background-color: #ffa30f;
+  border-radius: 12%;
+  padding: 0.9em !important;
+  /* width: 100%; */
 }
 .menka{
   width: 90%;
@@ -661,7 +659,7 @@ section#contact{
 .soc{
 position:  relative;
 left: 3%;
-top: 130px;
+top: -70px;
 }
 .telefon{
 position:  relative;
@@ -680,28 +678,30 @@ section#contact{
   width: 4.5%;
 }
 .socin li a{
-  font-size: 28px !important;
+  /* font-size: 28px !important; */
   width: 55px !important;
   height: 55px !important;
   line-height: 55px !important;
   background-color: #204312 !important;
   box-shadow: #204312 0 0 2px 1px;
-  color: #ffa30f  !important;
+  color: #ffa30f   !important;
   text-shadow: #ffa30f  0 0 2px;
+  background-image: url(/img/images/logo2.png);
+  background-size: 100%;
 }
 .maill{
   position: relative;
-  top: -125px;
-  right: -755px;
+  top: -155px;
+  right: -915px;
   color: #204312;
   text-shadow: #204312 0 0 2px;
-  font-size: 30px;
+  font-size: 24px;
   font-family: TrixieCyr-Plain;
   width: 60%;
   text-align: left;
 }
 .maill a{
-  margin-left: 10%;
+  margin-left: 4%;
   color: #204312;
   margin-right: 15%;
 }
@@ -718,20 +718,22 @@ section#contact{
 }
 .menushka:hover{
   transform: scale(1.3) rotate(-5deg);
-  color: #fff !important;
-  text-shadow: #000 0 0 10px !important;
+  color: #ffa30f  !important;
+  text-shadow: #ffa30f  0 0 0.1px !important;
   border-top: #ffa30f  solid 4px !important;
   box-shadow: #0009 -6px 15px 5px 0px, inset #0009 0 0 15px 5px !important;
   background-color:  #204312 !important;
   border: none;
-  background-image: url(/img/images/logo.png);
+  /* background-image: url(/img/images/logo.png); */
   background-size: 160%;
   background-position: center top -50px;
+  border-radius: 1% !important;
+  border-bottom: #ffa30f solid 4px !important;
 }
 .soch:hover{
   transform: scale(1.2) rotate(360deg);
   color: #204312 !important;
-  text-shadow: #ffa30f  0 0 2px;
+  text-shadow: #204312 0 0 2px;
   background-image: url(/img/images/logo3.png);
   background-color: #ffffff82 !important;
   background-size:  100%;
