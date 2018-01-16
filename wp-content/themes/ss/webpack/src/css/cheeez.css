@@ -370,10 +370,7 @@ i.fa.fa-lock.fa-stack-1x.fa-inverse.srva {color: #fff;tex;text-shadow: #fff 0 0 
    background-color: #ffa30f;
    box-shadow: #ffa30f 0 0 10px 5px;
 }
-.progress-bar hover:{
-  border-left: 0;
-  border-right: 0;
-}
+
 /* ANIMATION BAR */
 
 @keyframes fullexpand {
@@ -627,11 +624,23 @@ i.fa.fa-plus.fa-3x {
   border-bottom: #204312 solid 1px;
   border-radius: 10% !important;
 }
+.navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink ul li a:hover{border-left: 0;border-right: 0;border-radius: 5% !important;}
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink img{
-  width: 50%;
-  top: -600%;
-  left: -10%;
-  transform: rotate(-7deg);
+  width: 20%;
+  top: -130%;
+  left: 4%;
+  transform: rotate(-5deg);
+}
+.navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink socin ul{
+  left: -100%;
+  top: 0;
+
+}
+.navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink socin ul a{
+  border-radius: 0;
+}
+.navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink.maill{
+  left: -100%;
 }
 section#contact{
   padding: 0;
@@ -670,7 +679,6 @@ section#contact{
 }
 .soc{
 position:  relative;
-left: 0%;
 top: -70px;
 }
 .telefon{
