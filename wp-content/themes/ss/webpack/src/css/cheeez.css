@@ -4,7 +4,7 @@
   src: url('../fonts/letteratrentadue.eot');
 }
 img.logo {
-    width: 40%;
+    width: 38%;
     position: absolute;
 
     100%
@@ -154,7 +154,7 @@ ul.navbar-nav.text-uppercase.ml-auto {
     position: absolute;
     float: left;
     left: 41%;
-    top: 275px;
+    top: 265px;
     width: 100%;
 }
 
@@ -537,7 +537,7 @@ ul.timeline li {
 .contax{
   padding: 0;
   margin-top: 10%;
-  box-shadow: #000000d4 10px 10px 10px 0;
+  box-shadow: #000000d4 10px 10px 10px 0, inset #000 0 0 10px 1px;
   border-radius: 1%;
 }
 .con {
@@ -586,7 +586,7 @@ nav#mainNav {
   }
 .porto{
   padding: 0;
-  box-shadow: #000000d1 10px 10px 10px 0px;
+  box-shadow: #000000d1 10px 10px 10px 0px, inset #000 0 0 10px 1px;
   border-radius: 1%;
   background-size: 80%;
   bottom -200% right 200%;
@@ -618,11 +618,14 @@ i.fa.fa-plus.fa-3x {
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink ul li a{
   width: 100%;
   font-size: 24px !important;
-  border-left: #204312 solid 3px;
-  border-right: #204312 solid 3px;
-  border-top: #204312 solid 1px;
+  border-left: #ffa30f  solid 3px;
+  border-right: #ffa30f  solid 3px;
+  border-top: #204312  solid 1px;
   border-bottom: #204312 solid 1px;
   border-radius: 10% !important;
+  color:  #ffa30f !important;
+  border-radius:  5% !important;
+  text-shadow: #ffa30f 0 0 0.2px;
 }
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink ul li a:hover{border-left: 0;border-right: 0;border-radius: 5% !important;}
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink img{
@@ -631,29 +634,22 @@ i.fa.fa-plus.fa-3x {
   left: 4%;
   transform: rotate(-5deg);
 }
-.navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink socin ul{
-  left: -100%;
-  top: 0;
-
-}
-.navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink socin ul a{
-  border-radius: 0;
-}
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink.maill{
   left: -100%;
 }
 section#contact{
-  padding: 0;
-  background-image: none !important;
+  background-image: burlywood;
   background-color: #204312 !important;
-  width: 65%;
   margin-left: auto;
   margin-right: auto;
+  padding:  1em;
+  box-shadow: inset #000 0 0 300px 1px, #000000d4 10px 10px 10px 0;
+  border-radius: 1%;
 }
 #mainNav .navbar-nav .nav-item .nav-link{
   box-shadow: #0009 -6px 10px 5px 0px, inset #000 0 0 30px 0.5px;
   background-color: #204312;
-  border-radius: 12%;
+  border-radius: 5%;
   padding: 0.8em !important;
 }
 .menka{
@@ -731,8 +727,8 @@ section#contact{
   border-right: #ffa30f solid 4px;
   border-top: #ffa30f solid 3.5px;
   */
-  border-left: #ffa30f   solid 6px;
-  border-right: #ffa30f   solid 6px;
+  border-left: #ffa30f   solid 4px;
+  border-right: #ffa30f   solid 4px;
   border-bottom: #ffa30f   solid 1px;
   border-top: #ffa30f  solid 1px;
   color: #fff !important;
@@ -748,7 +744,7 @@ section#contact{
   /* background-image: url(/img/images/logo.png); */
   background-size: 160%;
   background-position: center top -50px;
-  border-radius: 10% !important;
+  border-radius: 5% !important;
   border-bottom: #ffa30f solid 4px !important;
 }
 .soch:hover{
@@ -765,7 +761,7 @@ section#contact{
   color: #ffa30f !important;
   text-shadow:  #ffa30f 0 0 2px;
 }
-#mainNav.navbar-shrink ul{/* display: none; */top: 110%;left: 44%;}
+#mainNav.navbar-shrink ul{/* display: none; */top: 35%;l;left: 40%;}
 .navbar.navbar-expand-lg.navbar-dark.fixed-top.navbar-shrink a{}
 #portfolio .portfolio-item .portfolio-caption{
   background-color: transparent !important;
