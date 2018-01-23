@@ -79,7 +79,7 @@
               <a class="nav-link js-scroll-trigger menu3 menushka" href="#about">О Нас</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger menu4 menushka" href="#team">Отзывы</a>
+              <a class="nav-link js-scroll-trigger menu4 menushka" href="#team">Цены</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger menu5 menushka" href="#contact">Контакты</a>
@@ -92,32 +92,37 @@
     <!-- Header -->
     <header class="masthead">
       <div class="row text-center">
-        <div class="col-md-4 bglo han serbg seric1">
+        <div class="col-md-3 bglo han serbg seric1">
           <span class="fa-stack fa-4x">
-            <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
-            <i class="fa fa-shopping-cart fa-stack-1x fa-inverse srva"></i>
+            <img src="/img/images/ico3.png">
           </span>
-          <h4 class="service-heading">Монтаж</h4>
+          <h4 class="service-heading">Резка</h4>
           <div class="cardon"></div>
-          <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+
         </div>
-        <div class="col-md-4 bglo han serbg seric2">
+        <div class="col-md-3 bglo han serbg seric2">
           <span class="fa-stack fa-4x">
-            <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
-            <i class="fa fa-laptop fa-stack-1x fa-inverse srva"></i>
+          <img src="/img/images/ico1.png">
+          </span>
+          <h4 class="service-heading">Гравировка</h4>
+          <div class="cardon"></div>
+
+        </div>
+        <div class="col-md-3 bglo han serbg seric3">
+          <span class="fa-stack fa-4x">
+            <img src="/img/images/ico2.png">
           </span>
           <h4 class="service-heading">Дизайн</h4>
           <div class="cardon"></div>
-          <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+
         </div>
-        <div class="col-md-4 bglo han serbg seric3">
+        <div class="col-md-3 bglo han serbg seric1">
           <span class="fa-stack fa-4x">
-            <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
-            <i class="fa fa-lock fa-stack-1x fa-inverse srva"></i>
+            <img src="/img/images/ico5.png">
           </span>
-          <h4 class="service-heading">Скорость</h4>
+          <h4 class="service-heading">Брэндирование</h4>
           <div class="cardon"></div>
-          <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+
         </div>
       </div>
       <div class="container inner">
@@ -203,11 +208,11 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="/img/portfolio/01-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="/img/images/12.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Threads</h4>
-              <p class="text-muted">Illustration</p>
+              <h4>Товары для детей</h4>
+              <p class="text-muted"></p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item portbg">
@@ -217,11 +222,11 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="/img/portfolio/02-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="/img/images/11.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Explore</h4>
-              <p class="text-muted">Graphic Design</p>
+              <h4>Шкатулки</h4>
+              <p class="text-muted"></p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item portbg">
@@ -231,11 +236,11 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="/img/portfolio/03-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="/img/images/17.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Finish</h4>
-              <p class="text-muted">Identity</p>
+              <h4>Часы</h4>
+              <p class="text-muted"></p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item portbg">
@@ -245,11 +250,11 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="/img/portfolio/04-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="/img/images/16.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Lines</h4>
-              <p class="text-muted">Branding</p>
+              <h4>Фоторамки</h4>
+              <p class="text-muted"></p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item portbg">
@@ -259,11 +264,11 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="/img/portfolio/05-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="/img/images/19.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Southwest</h4>
-              <p class="text-muted">Website Design</p>
+              <h4>Интерьерные решетки</h4>
+              <p class="text-muted"></p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 portfolio-item portbg">
@@ -273,11 +278,135 @@
                   <i class="fa fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="/img/portfolio/06-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="/img/images/18.jpg" alt="">
             </a>
             <div class="portfolio-caption">
-              <h4>Window</h4>
-              <p class="text-muted">Photography</p>
+              <h4>Брелоки</h4>
+              <p class="text-muted"></p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item portbg">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="/img/images/13.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Свадебная атрибутика</h4>
+              <p class="text-muted"></p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item portbg">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="/img/images/20.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Бижутерия</h4>
+              <p class="text-muted"></p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item portbg">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="/img/images/15.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Канцелярия</h4>
+              <p class="text-muted"></p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item portbg">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="/img/images/14.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Подарочная упаковка</h4>
+              <p class="text-muted"></p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item portbg">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="/img/images/21.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Обьемные #хештэги</h4>
+              <p class="text-muted"></p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item portbg">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="/img/images/post111.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Картины</h4>
+              <p class="text-muted"></p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item portbg">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="/img/images/23.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Барно-ресторанное оборудование</h4>
+              <p class="text-muted"></p>
+            </div>
+          </div><div class="col-md-4 col-sm-6 portfolio-item portbg">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="/img/images/22.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Декарации для фотосессии</h4>
+              <p class="text-muted"></p>
+            </div>
+          </div><div class="col-md-4 col-sm-6 portfolio-item portbg">
+            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fa fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="/img/images/24.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Люстры, светильники, торшеры</h4>
+              <p class="text-muted"></p>
             </div>
           </div>
         </div>
@@ -293,9 +422,9 @@
               <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
               <i class="fa fa-shopping-cart fa-stack-1x fa-inverse srva"></i>
             </span>
-            <h4 class="service-heading">Уникальность</h4>
+            <h4 class="service-heading">Эксклюзив</h4>
             <div class="cardon"></div>
-            <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <p class="text-muted seer">Уникальные авторские изделия с неповторимым дизайном</p>
           </div>
           <div class="col-md-4 bglo han serbg seric2">
             <span class="fa-stack fa-4x">
@@ -304,23 +433,23 @@
             </span>
             <h4 class="service-heading">Качество</h4>
             <div class="cardon"></div>
-            <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <p class="text-muted seer">Вне зависимости от обьема заказа и его сложности</p>
           </div>
           <div class="col-md-4 bglo han serbg seric3">
             <span class="fa-stack fa-4x">
               <i class="fa fa-circle fa-stack-2x text-primary srva"></i>
               <i class="fa fa-lock fa-stack-1x fa-inverse srva"></i>
             </span>
-            <h4 class="service-heading">Эксклюзив</h4>
+            <h4 class="service-heading">Скорость</h4>
             <div class="cardon"></div>
-            <p class="text-muted seer">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+            <p class="text-muted seer">Выполнение заказа от 3 часов*<br>(в зависимости от обьема заказа)</p>
           </div>
         </div>
       </div>
     </section>
 
     <!-- About -->
-    <!-- <section id="about">
+    <section id="about">
       <div class="container inner onas">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -397,10 +526,10 @@
           </div>
         </div>
       </div>
-    </section> -->
+    </section>
 
     <!-- Team -->
-    <section class="bg-light contax" id="team">
+    <!-- <section class="bg-light contax" id="team">
       <div class="container inner">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -486,10 +615,10 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Clients -->
-    <section class="py-5">
+    <!-- <section class="py-5">
       <div class="container inner">
         <div class="row">
           <div class="col-md-3 col-sm-6">
@@ -514,7 +643,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Contact -->
     <section id="contact">
