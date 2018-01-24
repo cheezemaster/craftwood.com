@@ -61,8 +61,9 @@
     </div>
       </div>
       <div class="container inner server">
-
+<div class="logoicon">
         <img class="logo" src="/img/images/logo5.png">
+      </div>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fa fa-bars"></i>
@@ -102,7 +103,7 @@
             <img src="/img/images/ico3.png">
           </span>
           <h4 class="service-heading">Резка</h4>
-          <div class="cardon"></div>
+          <!-- <div class="cardon"></div> -->
 
         </div>
         <div class="col-md-3 bglo han serbg seric2">
@@ -110,7 +111,7 @@
           <img src="/img/images/ico1.png">
           </span>
           <h4 class="service-heading">Гравировка</h4>
-          <div class="cardon"></div>
+          <!-- <div class="cardon"></div> -->
 
         </div>
         <div class="col-md-3 bglo han serbg seric3">
@@ -118,7 +119,7 @@
             <img src="/img/images/ico2.png">
           </span>
           <h4 class="service-heading">Дизайн</h4>
-          <div class="cardon"></div>
+          <!-- <div class="cardon"></div> -->
 
         </div>
         <div class="col-md-3 bglo han serbg seric1">
@@ -126,7 +127,7 @@
             <img src="/img/images/ico5.png">
           </span>
           <h4 class="service-heading">Брэндирование</h4>
-          <div class="cardon"></div>
+          <!-- <div class="cardon"></div> -->
 
         </div>
       </div>
