@@ -200,7 +200,7 @@
             <h2 class="section-heading text-uppercase produkt">Продукция</h2>
           </div>
         </div>
-        <div class="row">
+        <div class="row produkti">
           <div class="col-md-4 col-sm-6 portfolio-item portbg">
             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
               <div class="portfolio-hover">
