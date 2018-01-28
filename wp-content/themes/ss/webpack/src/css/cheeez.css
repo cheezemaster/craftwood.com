@@ -176,13 +176,16 @@ span.fa-stack.fa-4x {
       background-image: url(/img/images/logoico1.png);
 }
 .carbon1 {
-    border-right: #204312 dotted 6px;
+    /* border-right: #204312 dotted 6px; */
     position: relative;
-    top: -42px;
+    top: -15px;
     right: 5%;
     width: 100%;
     /* box-shadow: #204312 0 0 1px 0.5px; */
-    height: 30px;
+    height: 20px;
+    background-image: url(/img/images/sled2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
   }
 ul.navbar-nav.text-uppercase.ml-auto {
     position: absolute;
@@ -672,7 +675,7 @@ i.fa.fa-plus.fa-3x {
     color: #204312;
 }
 #mainNav .navbar-nav .nav-item .nav-link{
-  letter-spacing: 0 !important;
+  letter-spacing: 2px !important;
 }
 
 .navbar-nav > li > a {

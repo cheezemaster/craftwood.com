@@ -72,24 +72,29 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
             <li class="nav-item">
+              <div class="carbon1"></div>
               <a class="nav-link js-scroll-trigger menu1 menushka" href="#services">Главная</a>
-              <div class="carbon1"></div>
+
             </li>
             <li class="nav-item">
+              <div class="carbon1"></div>
               <a class="nav-link js-scroll-trigger menu2 menushka" href="#portfolio">Продукция</a>
-              <div class="carbon1"></div>
+
             </li>
             <li class="nav-item">
+              <div class="carbon1"></div>
               <a class="nav-link js-scroll-trigger menu3 menushka" href="#about">О Нас</a>
-              <div class="carbon1"></div>
+
             </li>
             <li class="nav-item">
+              <div class="carbon1"></div>
               <a class="nav-link js-scroll-trigger menu4 menushka" href="#team">Цены</a>
-              <div class="carbon1"></div>
+
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger menu5 menushka" href="#contact">Контакты</a>
               <div class="carbon1"></div>
+              <a class="nav-link js-scroll-trigger menu5 menushka" href="#contact">Контакты</a>
+
             </li>
           </ul>
         </div>
