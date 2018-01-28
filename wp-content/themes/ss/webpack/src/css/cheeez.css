@@ -18,7 +18,7 @@ img.logo {
     /* box-shadow: inset #fff 0 0 400px 50px, #fff 0 0 10px 5px; */
 }
 
-.container.inner.server {w;width: 100%;padding:  0;}
+.container.inner.server {;width: 100%;padding:  0;}
 
 section#portfolio portbg {}
 
@@ -160,7 +160,7 @@ span.fa-stack.fa-4x {
 
 .col-md-4.bglo han {}
 
-.col-md-3.bglo.han {padding: 2%;wi;margin: auto;margin-left: 2%;m;ma;margin-right: 2%;ma;max-width: 21%;border-radius: 1%;background-image: url(/img/images/logoico2.png);background-size: 40%;background-position: right -5px top 10px;background-repeat: no-repeat;}
+.col-md-3.bglo.han {padding: 2%;wi;margin: auto;margin-left: 2%;m;ma;margin-right: 2%;ma;max-width: 21%;border-radius: 5%;background-image: url(/img/images/logoico2.png);background-size: 40%;background-position: right -5px top 10px;background-repeat: no-repeat;}
 .col-md-4.bglo.han {padding: 2%;wi;margin: auto;margin-left: 2%;m;ma;margin-right: 2%;ma;max-width: 25%;border-radius: 1%;background-image: url(/img/images/logo.png);background-size: 80%;;background-position: right 100px top -95px;background-repeat: no-repeat;}
 
 .service-heading{
@@ -591,7 +591,7 @@ nav#mainNav {
     padding:  0;
     left: auto;
     background-color: #ffffff8f;
-    height: 26%;
+    height: 24.5%;
     /* outline: #fff  solid 10px; */
     border-top: #ffa30f  solid 6px;
 
@@ -807,13 +807,15 @@ section#contact{
 .produkt{
 }
 .cardon{
-  border-top: #204312 solid 4px;]
+  ]
   width: 40px;
   position:  relative;
-  top: -30px;
-  right: 20%;
+  top: -130px;
+  right: 17%;
   width: 100%;
-  box-shadow: #204312 0 0 2px 0.1px;
+  font-size: 22px;
+  font-family: TrixieCyr-Plain;
+  letter-spacing: -2px;
 }
 /* div.pullUp ul li a:before
 {
