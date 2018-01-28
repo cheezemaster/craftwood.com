@@ -103,7 +103,7 @@
             <img src="/img/images/ico3.png">
           </span>
           <h4 class="service-heading">Резка</h4>
-          <div class="cardon">Точность до 0.01 см.</div>
+          <div class="cardon2 cardon">Точность до 0.01 см.</div>
 
         </div>
         <div class="col-md-3 bglo han serbg seric2">
@@ -111,7 +111,7 @@
           <img src="/img/images/ico1.png">
           </span>
           <h4 class="service-heading">Гравировка</h4>
-          <div class="cardon">Именной подарок к празднику</div>
+          <div class="cardon3 cardon">Именной подарок</div>
 
         </div>
         <div class="col-md-3 bglo han serbg seric3">
@@ -119,7 +119,7 @@
             <img src="/img/images/ico2.png">
           </span>
           <h4 class="service-heading">Дизайн</h4>
-          <div class="cardon">Энди Урхал советует!</div>
+          <div class="cardon4 cardon">Энди Уорхал советует!</div>
 
         </div>
         <div class="col-md-3 bglo han serbg seric1">
@@ -127,7 +127,7 @@
             <img src="/img/images/ico5.png">
           </span>
           <h4 class="service-heading">Брэндирование</h4>
-          <div class="cardon">Верный пиар-ход</div>
+          <div class="cardon5 cardon">Верный пиар-ход</div>
 
         </div>
       </div>
