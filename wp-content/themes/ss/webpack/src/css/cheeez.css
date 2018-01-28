@@ -176,13 +176,13 @@ span.fa-stack.fa-4x {
       background-image: url(/img/images/logoico1.png);
 }
 .carbon1 {
-    /* border-top: #204312 solid 2px; */
+    border-right: #204312 dotted 6px;
     position: relative;
-    top: -10px;
-    right: 11%;
+    top: -42px;
+    right: 5%;
     width: 100%;
     /* box-shadow: #204312 0 0 1px 0.5px; */
-    /* display:  none; */
+    height: 30px;
   }
 ul.navbar-nav.text-uppercase.ml-auto {
     position: absolute;
@@ -211,8 +211,8 @@ h4.service-heading:hover{
 }
 .logo2{
   position: absolute;
-  top: -49px;
   left: 4.8%;
+  top: -50px;
   width: 24.8%;
   opacity: 0.9;
 }
@@ -807,7 +807,7 @@ section#contact{
   border-top: #ffa30f solid 3.5px;
   */
   /* border-left: #204312   solid 1px; */
-  border-right: #204312  dotted 6px;
+  /* border-right: #204312  dotted 6px; */
   /* border-bottom: #204312  solid 2px; */
   /* border-top: #204312  solid 2px; */
   color: #204312 !important;
