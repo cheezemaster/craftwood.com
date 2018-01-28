@@ -61,8 +61,8 @@
     </div>
       </div>
       <div class="container inner server">
-  <img class="logo2" src="/img/images/logon.png">
-        <img class="logo" src="/img/images/logo5.png">
+  <img class="logo2" src="/img/images/logon1.png">
+        <img class="logo" src="/img/images/logo.png">
 
 
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
