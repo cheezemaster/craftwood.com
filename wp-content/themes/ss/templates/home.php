@@ -61,8 +61,9 @@
     </div>
       </div>
       <div class="container inner server">
+  <img class="logo2" src="/img/images/logon.png">
+        <img class="logo" src="/img/images/logo5.png">
 
-        <img class="logo" src="/img/images/logo4.png">
 
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
@@ -99,6 +100,7 @@
     <header class="masthead">
       <div class="row text-center">
         <div class="col-md-3 bglo han serbg seric1">
+          <img class="yach" src="/img/images/pp1.png">
           <span class="fa-stack fa-4x">
             <img src="/img/images/ico3.png">
           </span>
@@ -107,6 +109,7 @@
 
         </div>
         <div class="col-md-3 bglo han serbg seric2">
+          <img class="yach" src="/img/images/pp1.png">
           <span class="fa-stack fa-4x">
           <img src="/img/images/ico1.png">
           </span>
@@ -115,6 +118,7 @@
 
         </div>
         <div class="col-md-3 bglo han serbg seric3">
+          <img class="yach" src="/img/images/pp1.png">
           <span class="fa-stack fa-4x">
             <img src="/img/images/ico2.png">
           </span>
@@ -123,10 +127,11 @@
 
         </div>
         <div class="col-md-3 bglo han serbg seric1">
+          <img class="yach" src="/img/images/pp1.png">
           <span class="fa-stack fa-4x">
             <img src="/img/images/ico5.png">
           </span>
-          <h4 class="service-heading">Брэндирование</h4>
+          <h4 class="service-heading">Брэндинг</h4>
           <div class="cardon5 cardon">Верный пиар-ход</div>
 
         </div>

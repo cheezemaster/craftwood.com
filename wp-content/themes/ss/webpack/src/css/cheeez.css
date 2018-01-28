@@ -4,21 +4,21 @@
   src: url('../fonts/letteratrentadue.eot');
 }
 img.logo {
-    width: 25%;
+    width: 20%;
     position: absolute;
 
     100%
     background-color: #ffa30fbf;
     border-radius: 100%;
     left: 5%;
-    top: -55%;
+    top: -10%;
     transform: rotate(-10deg);
     a8 -10px 0px 5px 5px; */
     padding: 0.1%;
     /* box-shadow: inset #fff 0 0 400px 50px, #fff 0 0 10px 5px; */
 }
 
-.container.inner.server {;width: 100%;padding:  0;}
+.container.inner.server {width: 100%;padding:  0;}
 
 section#portfolio portbg {}
 
@@ -164,7 +164,7 @@ span.fa-stack.fa-4x {
 
 .col-md-4.bglo han {}
 
-.col-md-3.bglo.han {padding: 2%;wi;margin: auto;margin-left: 2%;m;ma;margin-right: 2%;ma;max-width: 21%;border-radius: 5%;background-image: url(/img/images/logoico2.png);background-size: 40%;background-position: right -5px top -20px;background-repeat: no-repeat;border: #000000c2 solid 1px;}
+.col-md-3.bglo.han {padding: 2%;wi;margin: auto;margin-left: 2%;m;ma;margin-right: 2%;ma;max-width: 21%;border-radius: 5%;background-image: url(/img/images/logoico2.png);background-size: 40%;background-position: right -5px top -15px;background-repeat: no-repeat;border: #000000c2 solid 1px;}
 .col-md-4.bglo.han {padding: 2%;wi;margin: auto;margin-left: 2%;m;ma;margin-right: 2%;ma;max-width: 25%;border-radius: 1%;background-image: url(/img/images/logo.png);background-size: 80%;;background-position: right 100px top -95px;background-repeat: no-repeat;}
 
 .service-heading{
@@ -187,7 +187,7 @@ span.fa-stack.fa-4x {
 ul.navbar-nav.text-uppercase.ml-auto {
     position: absolute;
     float: left;
-    left: 30%;
+    left: 35%;
     top: 120px;
     width: 100%;
     /* background-color: #ffa30fcc; */
@@ -208,7 +208,24 @@ a.nav-link{
 }
 h4.service-heading:hover{
 }
-.cardon:hover {text-shadow: #f;}
+.logo2{
+  position: absolute;
+  top: -91px;
+  left: 0.5%;
+  width: 29%;
+  opacity: 0.9;
+}
+.img-fluid{
+  border-radius: 10%;
+}
+.yach{
+  width: 60%;
+  position:  absolute;
+  top: 0;
+  left: 0;
+  opacity: 0.1;
+}
+.cardon:hover {}
 .cardon2{}
 .cardon3{}
 .cardon4{}
@@ -220,11 +237,12 @@ h4.service-heading:hover{
   background-size: 130%;
   background-position: top 20px left 20px;
   background-repeat: no-repeat;
-  box-shadow: inset #000 0 0 150px 1px;
+  box-shadow: inset #000 0 0 100px 1px;
   opacity: 11 !important;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover{
   background-color: #204312ab !important;
+  border-radius: 5% 5% 0 0;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i{
   display: none;
@@ -493,7 +511,7 @@ header.masthead {
 backface-visibility:hidden;
 margin-top: 0%;
 padding: 0;
-border-radius: 1%;
+border-radius: 5%;
 }
 
 .portbg:hover{
@@ -502,7 +520,7 @@ header.masthead {
   -ms-transform: scale(1.2);
   -o-transform: scale(1.2);
   transform: scale(1.2);
-  box-shadow: #000000bf 10px 10px 16px 16px, inset #000 0 0 50px 1px;
+  box-shadow: #000000bf 10px 10px 16px 16px, inset #000 0 0 10px 1px;
   z-index: 3 !important;
   background-color: #fff !important;
 }
@@ -616,7 +634,7 @@ nav#mainNav {
     padding:  0;
     left: auto;
     background-color: #ffffff8f;
-    height: 24.5%;
+    height: 26.3%;
     /* outline: #fff  solid 10px; */
     border-top: #ffa30f  solid 6px;
 
@@ -775,7 +793,7 @@ section#contact{
   font-family: TrixieCyr-Plain;
   width: 60%;
   text-align: right;
-  border-bottom:  #ffa30f solid 8px;
+  /* border-bottom:  #ffa30f solid 8px; */
 }
 .maill a{
   margin-left: 4%;
