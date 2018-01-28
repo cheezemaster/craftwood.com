@@ -63,12 +63,12 @@ h4.service-heading {
     text-shadow: #ffa30f 0 0 0.1px;
     font-family: TrixieCyr-Plain;
     width: 100%;
-    text-align: left;
+    text-align: center;
     ht; */
     position:  relative;
     left: -10px;
     position:  relative;
-    transform: rotate(3deg);
+    transform: rotate(5deg);
     top: -20px;
     margin: 0;
 }
@@ -164,7 +164,7 @@ span.fa-stack.fa-4x {
 
 .col-md-4.bglo han {}
 
-.col-md-3.bglo.han {padding: 2%;wi;margin: auto;margin-left: 2%;m;ma;margin-right: 2%;ma;max-width: 21%;border-radius: 5%;background-image: url(/img/images/logoico2.png);background-size: 40%;background-position: right -5px top -20px;background-repeat: no-repeat;}
+.col-md-3.bglo.han {padding: 2%;wi;margin: auto;margin-left: 2%;m;ma;margin-right: 2%;ma;max-width: 21%;border-radius: 5%;background-image: url(/img/images/logoico2.png);background-size: 40%;background-position: right -5px top -20px;background-repeat: no-repeat;border: #000000c2 solid 1px;}
 .col-md-4.bglo.han {padding: 2%;wi;margin: auto;margin-left: 2%;m;ma;margin-right: 2%;ma;max-width: 25%;border-radius: 1%;background-image: url(/img/images/logo.png);background-size: 80%;;background-position: right 100px top -95px;background-repeat: no-repeat;}
 
 .service-heading{
@@ -207,9 +207,8 @@ a.nav-link{
       /* color: #ffa30f !important; */
 }
 h4.service-heading:hover{
-  color:#fff !important;
 }
-.cardon:hover {color: #ffa30f;text-shadow: #ffa30f 0 0 0.1px;}
+.cardon:hover {text-shadow: #f;}
 .cardon2{}
 .cardon3{}
 .cardon4{}
@@ -837,15 +836,20 @@ section#contact{
   ]
   width: 40px;
   position:  relative;
-  width: 110%;
+  width: 140%;
   font-family: TrixieCyr-Plain;
   top: -5px;
   font-size: 24px;
-  letter-spacing: -2px;
-  color: #fff;
-  text-shadow: #fff 0 0 0.1px;
-  text-align:  right;
-  right: 20px;
+  letter-spacing: -1px;
+  color: #204312;
+  text-shadow: #204312 0 0 0.1px;
+  text-align: center;
+  left: -55px;
+  background-image: url(/img/images/sled1.png);
+  background-position: center;
+  background-size: 110%;
+  height: 60px;
+  padding-top: 5px;
 }
 /* div.pullUp ul li a:before
 {
